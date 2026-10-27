@@ -1,7 +1,8 @@
 # Compelling Narratives: South Fresno, Up And Over
 ## Illegal Immigration Issues / Barter Economy 
 + (Anonymous Deals -- No Money/No Lights)
-+ Anonymous Deals: Membership has privileges 
++ Anonymous Deals: Membership has privileges
+  + Group Members get access to resources.
   
 | <img src="Feng_1-EDIT.jpg" width="250" /></br>Facial Paralysis |<img src="PXL_20261012_215753844.jpg" width="200" />  | <img src="PXL_20261010_170222400~2.jpg" width="200" />|
 |--|--|--|

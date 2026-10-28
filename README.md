@@ -1,5 +1,9 @@
 # Compelling Narratives: South Fresno, Up And Over
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues
++ Historical Issues:
+  + Chinese Exclusion Act: May 6, 1882
+  + Japanese Internment Camps
+  + African Slave Trade
 + (Anonymous Deals -- No Money/No Lights)
 + Anonymous Deals: Membership has privileges
   + Group Members get access to resources.

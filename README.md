@@ -1,5 +1,5 @@
 # Compelling Narratives: South Fresno, Up And Over
-## Illegal Immigration Issues / Barter Economy 
+## Illegal Immigration Issues / Barter Economy: Serious Ethical Issues
 + (Anonymous Deals -- No Money/No Lights)
 + Anonymous Deals: Membership has privileges
   + Group Members get access to resources.

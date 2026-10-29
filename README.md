@@ -18,7 +18,7 @@ The strongest contrasts are between **Santa Ana’s predominantly Latino populat
 
 **Sources:** U.S. Census Bureau QuickFacts — [Clovis](https://www.census.gov/quickfacts/cloviscitycalifornia), [Fresno](https://www.census.gov/quickfacts/fresnocitycalifornia), [Santa Ana](https://www.census.gov/quickfacts/santaanacitycalifornia), and [Irvine](https://www.census.gov/quickfacts/irvinecitycalifornia).
 
-| <img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="150" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| | <img src="Heart_LQ1.jpg" width="250" />| <img src="41CJPDXWK4L._AC_UF1000,1000_QL80_.jpg" width="250" /></br>Faculty/Student Dinners|
+| <img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="150" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| | <img src="Heart_LQ1.jpg" width="250" /></br>Renaissance Faire| <img src="41CJPDXWK4L._AC_UF1000,1000_QL80_.jpg" width="250" /></br>Faculty/Student Dinners|
 |--|--|--|--|
 
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues

@@ -1,6 +1,8 @@
 # Compelling Narratives: South Fresno, Up And Over
 ## Racial and Ethnic Composition: Clovis, Fresno, Santa Ana, and Irvine
 
+*Question: Will Fresno become Santa Ana of Valley?*
+
 **Clovis has the largest non-Hispanic White share; Fresno and Santa Ana have Latino majorities; Irvine’s largest racial group is Asian.**
 
 U.S. Census Bureau QuickFacts figures provide this comparison of city residents:

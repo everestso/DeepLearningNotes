@@ -1,4 +1,23 @@
 # Compelling Narratives: South Fresno, Up And Over
+## Racial and Ethnic Composition: Clovis, Fresno, Santa Ana, and Irvine
+
+**Clovis has the largest non-Hispanic White share; Fresno and Santa Ana have Latino majorities; Irvine’s largest racial group is Asian.**
+
+U.S. Census Bureau QuickFacts figures provide this comparison of city residents:
+
+| City | Hispanic/Latino, any race | White, non-Hispanic | Asian alone | Black alone |
+|---|---:|---:|---:|---:|
+| **Clovis** | 33.8% | 45.0% | 13.5% | 1.8% |
+| **Fresno** | 50.9% | 23.8% | 14.5% | 6.8% |
+| **Santa Ana** | 76.6% | 8.9% | 12.5% | 0.8% |
+| **Irvine** | 11.4% | 34.3% | 44.8% | 2.0% |
+
+The strongest contrasts are between **Santa Ana’s predominantly Latino population** and **Irvine’s large Asian population**. Clovis has a substantially larger non-Hispanic White share than neighboring Fresno, while Fresno has larger Latino and Black shares.
+
+*Note: Hispanic/Latino is an ethnicity and can overlap with racial categories. These selected categories therefore do not add to 100%.*
+
+**Sources:** U.S. Census Bureau QuickFacts — [Clovis](https://www.census.gov/quickfacts/cloviscitycalifornia), [Fresno](https://www.census.gov/quickfacts/fresnocitycalifornia), [Santa Ana](https://www.census.gov/quickfacts/santaanacitycalifornia), and [Irvine](https://www.census.gov/quickfacts/irvinecitycalifornia).
+
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues
 + Historical Issues:
   + Chinese Exclusion Act: May 6, 1882

@@ -20,9 +20,9 @@ The strongest contrasts are between **Santa Ana’s predominantly Latino populat
 
 **Sources:** U.S. Census Bureau QuickFacts — [Clovis](https://www.census.gov/quickfacts/cloviscitycalifornia), [Fresno](https://www.census.gov/quickfacts/fresnocitycalifornia), [Santa Ana](https://www.census.gov/quickfacts/santaanacitycalifornia), and [Irvine](https://www.census.gov/quickfacts/irvinecitycalifornia).
 
-| <img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="150" /></br><img src="PXL_20261029_195631098.jpg" width="100" /></br>SCIENTIFIC Cultural Studies!</br>w/ CS Support| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Renaissance Faire</br><img src="Heart_LQ1.jpg" width="250" />| | <img src="41CJPDXWK4L._AC_UF1000,1000_QL80_.jpg" width="250" /></br>Faculty/Student Dinners|
+| <img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="150" /></br><img src="PXL_20261029_195631098.jpg" width="100" /></br>SCIENTIFIC Cultural Studies!</br>w/ CS Support| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Renaissance Faire</br><img src="Heart_LQ1.jpg" width="250" />| CHINS</br><img src="PXL_20261028_192408009.MP.jpg" width="200" />| <img src="41CJPDXWK4L._AC_UF1000,1000_QL80_.jpg" width="250" /></br>Faculty/Student Dinners|
 |--|--|--|--|
-| <img src="Feng_1-EDIT.jpg" width="250" /></br><img src="PXL_20261028_191211969.MP~2.jpg" width="200" />|<img src="PXL_20261010_170222400~2.jpg" width="200" />| <img src="PXL_20261028_192408009.MP.jpg" width="200" />|<img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br><img src="QVZkZkhLNEZqYmZLOFBOSQ.jpeg " width="200" />|
+| <img src="Feng_1-EDIT.jpg" width="250" />| <img src="PXL_20261028_191211969.MP~2.jpg" width="200" />| <img src="PXL_20261010_170222400~2.jpg" width="200" />|<img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br><img src="QVZkZkhLNEZqYmZLOFBOSQ.jpeg " width="200" />|
 
 
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues

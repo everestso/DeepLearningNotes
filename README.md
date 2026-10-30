@@ -25,7 +25,7 @@ The strongest contrasts are between **Santa Ana’s predominantly Latino populat
 | <img src="Feng_1-EDIT.jpg" width="250" /></br>Delivering Community Support</br>Delivery Messages| <img src="PXL_20261028_191211969.MP~2.jpg" width="200" />| Magic Tricks</br>(GOLD Mountain)</br>Now, Show Me</br>Deal Masters</br> <img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Daughter's Dangers</br>Immigrant First Gens </br>School (College) Risks</br>GOLD Mountain|<img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br>I M Busy</br><img src="QVZkZkhLNEZqYmZLOFBOSQ.jpeg " width="200" />|
 | <img src="QVZjc005QXNZM2c4TlpKMg.jpeg" width="250" />| <img src="PS.Bar.jpg" width="250" />| <img src="WIN_20230712_15_37_18_Pro.jpg" width="250" />| |
 | <img src="WIN_20230712_15_39_56_Pro.jpg" width="250" />| <img src="Doro2.jpg" width="250" />| <img src="WIN_20230712_15_40_16_Pro.jpg" width="250" />| <img src="Dora1.jpg" width="250" />|
-| <img src="ShirelyAndDora1.jpg" width="250" />| <img src="PXL_20250219_195401571.MP~2.jpg" width="150" /></br>Campus Administration</br>(Campus Police)| <img src="PXL_20231226_162839027.jpg" width="250" />| |
+| <img src="ShirelyAndDora1.jpg" width="250" /></br><img src="PXL_20261010_170222400~2.jpg" width="200" />| <img src="PXL_20250219_195401571.MP~2.jpg" width="150" /></br>Campus Administration</br>(Campus Police)| <img src="PXL_20231226_162839027.jpg" width="250" />| |
 
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues
 + Historical Issues:

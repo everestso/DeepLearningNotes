@@ -1,7 +1,7 @@
 # Fresno's Spiritual Fuel for Future?? 
 ## Battleground for Fresno's Spiritual Truth?? What is F.R.E.S.N.O.?
 
-*Does the invisible SPIRIT of Fresno Drive Its Destiny??*
+*Does the Invisible SPIRIT (hidden/secret) of Fresno Drive Its Destiny??*
 
 ## Early History of the Name “Fresno”
 

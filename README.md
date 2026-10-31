@@ -1,5 +1,5 @@
-# Understanding Spirit of Fresno
-## Battleground for Fresno's Spirit??
+# Fresno's Spiritual Fuel for Future?? 
+## Battleground for Fresno's Spiritual Truth?? What is F.R.E.S.N.O.?
 
 **Downtown Fresno began as a railroad settlement in 1872 and grew into the San Joaquin Valley’s commercial and civic center.** Its history reflects agricultural prosperity, immigrant communities, suburban expansion, and repeated efforts at renewal.
 

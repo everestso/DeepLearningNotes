@@ -1,3 +1,27 @@
+## Brief History of Downtown Fresno
+
+**Downtown Fresno began as a railroad settlement in 1872 and grew into the San Joaquin Valley’s commercial and civic center.** Its history reflects agricultural prosperity, immigrant communities, suburban expansion, and repeated efforts at renewal.
+
+- **1872–1885: Railroad beginnings.** The Central Pacific Railroad established Fresno Station in **1872**, drawing businesses and residents around the depot. Fresno replaced Millerton as the **county seat in 1874** and incorporated in **1885**.
+
+- **Late 1800s–early 1900s: A growing, diverse center.** Agricultural development supported downtown stores, banks, hotels, and warehouses. **Chinatown developed west of the railroad tracks**, while Armenian residents established businesses and neighborhoods southeast of the commercial core. Discrimination and residential restrictions shaped these communities’ geography.
+
+- **1890s–1930s: Downtown’s heyday.** Streetcars, introduced in **1892**, connected neighborhoods to bustling shopping streets. Landmark buildings included the **Pacific Southwest Building (1925)** and **Pantages Theatre, now Warnors (1928)**. Fulton Street became the region’s principal shopping corridor.
+
+- **1950s–1970s: Suburban competition and urban renewal.** Housing and shopping expanded northward, weakening downtown’s retail dominance. To attract shoppers, Fresno opened the **Fulton Mall on September 1, 1964**—six blocks converted into a pedestrian landscape designed by **Garrett Eckbo**, within a broader plan by **Victor Gruen’s firm**. Its fountains, sculptures, and gardens earned recognition, but suburban competition continued.
+
+- **Late 1900s onward: Decline and reinvestment.** Downtown experienced retail departures and vacancies. More recent revitalization efforts emphasize historic preservation, housing, arts, restaurants, and entertainment. **Fulton Street reopened to vehicles on October 21, 2017**, marking another major change in the effort to revive Fresno’s historic center.
+
+### Sources
+
+- [City of Fresno — Historic Preservation and City History](https://www.fresno.gov/planning/historic-preservation/)
+- [City of Fresno — Fulton Corridor Historic Resources Survey](https://www.fresno.gov/wp-content/uploads/2023/03/FultonCorridorSurveyReport_050314.pdf)
+- [Pacific Southwest Building — History](https://pacificsouthwestbuilding.com/)
+- [Warnors Center for the Performing Arts — Theatre History](https://warnorscenter.org/)
+- [Library of Congress — Fulton Mall](https://www.loc.gov/item/ca4187/)
+- [City of Fresno — Grand Reopening of Fulton Street, October 21, 2017](https://www.fresno.gov/news/city-of-fresno-celebrates-the-grand-re-opening-of-fulton-street/)
+- [Fresno DRIVE — Downtown 2.0](https://www.fresnodrive.org/place/downtown)
+
 # Compelling Narratives: South Fresno, Up And Over
 ## Racial and Ethnic Composition: Clovis, Fresno, Santa Ana, and Irvine
 

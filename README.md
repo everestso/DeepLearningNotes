@@ -3,6 +3,8 @@
 
 *Does the Invisible SPIRIT (hidden/secret) of Fresno Drive Its Destiny??*
 
+*Will history help us understand the true spirit of Fresno.*
+
 ## Early History of the Name “Fresno”
 
 **“Fresno” is Spanish for “ash tree.”** The name **Fresno River** was in use by the early 1850s, although its exact naming date is uncertain.

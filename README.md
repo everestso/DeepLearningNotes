@@ -1,6 +1,28 @@
 # Fresno's Spiritual Fuel for Future?? 
 ## Battleground for Fresno's Spiritual Truth?? What is F.R.E.S.N.O.?
 
+## Early History of the Name “Fresno”
+
+**“Fresno” is Spanish for “ash tree.”** The name **Fresno River** was in use by the early 1850s, although its exact naming date is uncertain.
+
+- **1806:** Gabriel Moraga’s expedition called the stream **Santa Ana**, an earlier Spanish name identified by historian Sherburne F. Cook with today’s Fresno River.
+- **Around 1851:** According to KVPR’s historical account, **Fresno River** began appearing on maps of the region.
+- **1852:** A surviving Gold Rush letter is headed **“Frezno river California,”** providing contemporary evidence of the name.
+- **1856:** **Fresno County** took its name from the river and the ash trees along its banks.
+- **1893:** The creation of **Madera County** placed the Fresno River outside the remaining Fresno County.
+
+“Fresno Creek” has not been established here as an earlier official name.
+
+### Sources and Early Maps
+
+- [KVPR — Why Is the Fresno River in Madera County?](https://www.kvpr.org/podcast/central-valley-roots/2024-12-16/why-is-the-fresno-river-in-madera-county)
+- [Gibbes’s *Map of the Gold Region in California* (1851)](https://www.loc.gov/item/98687170/)
+- [Gibbes’s *New Map of California* (1852)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~220139~5504923:New-Map-Of-California)
+
+The maps are useful early references; neither has been confirmed here as the name’s first mapped appearance.
+
+# Spirit of DownTown Fresno
+
 **Downtown Fresno began as a railroad settlement in 1872 and grew into the San Joaquin Valley’s commercial and civic center.** Its history reflects agricultural prosperity, immigrant communities, suburban expansion, and repeated efforts at renewal.
 
 - **1872–1885: Railroad beginnings.** The Central Pacific Railroad established Fresno Station in **1872**, drawing businesses and residents around the depot. Fresno replaced Millerton as the **county seat in 1874** and incorporated in **1885**.

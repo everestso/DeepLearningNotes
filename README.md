@@ -71,9 +71,15 @@ European witch hunts developed gradually: **belief in magic was ancient, but lar
 
 - **Women and the “weaker vessel”:** Some witchcraft writers drew on misogynistic traditions and interpretations of Scripture to argue that women were weaker in faith and reason, and therefore more susceptible to temptation and witchcraft. They invoked Eve’s temptation and biblical language describing the wife as the **“weaker vessel” (1 Peter 3:7)**. **The verse itself does not associate women with witchcraft**; that connection was an interpretation used to justify prejudice. The passage also instructs husbands to honor their wives as fellow heirs of divine grace.
 
-- **Expansion, late 1400s onward:** Printed demonological writings—including the *Malleus Maleficarum* (**1486–1487**)—reinforced claims that women were especially susceptible to witchcraft. Women became the majority of those prosecuted across Europe, although the proportion varied considerably and men predominated in some regions. The largest hunts occurred especially **about 1560–1650**, amid religious conflict, political tensions, and local crises.
+- **The *Malleus Maleficarum*, 1486–1487:** Written by **Heinrich Kramer**, a German Dominican inquisitor also known as **Henricus Institoris**, this treatise reinforced claims that women were especially susceptible to witchcraft. **Jacob Sprenger** is traditionally credited as co-author, but his involvement is disputed. The title means **“Hammer of Witches”**: *malleus* means “hammer,” and *maleficarum* means “of female evildoers,” conventionally translated as “of witches.” The feminine plural explicitly identifies women.
+
+- **The largest hunts, roughly 1560–1650:** Witch prosecutions intensified amid religious conflict, political tensions, and local crises. Women constituted the majority of those prosecuted across Europe, although the proportion varied considerably and men predominated in some regions.
 
 The crucial change was the growing claim that an accused person belonged to a **collective, satanic threat**. This encouraged investigators to seek accomplices and allowed individual accusations to become mass prosecutions. **Gender prejudice helped determine who was most likely to be suspected.**
+
+### Reference for the Text’s Authorship
+
+[University of Pennsylvania — *Malleus Maleficarum*: publication and disputed authorship](https://onlinebooks.library.upenn.edu/webbin/work?id=olbp107228)
 
 | <img src="QVZjc005QXNZM2c4TlpKMg.jpeg" width="250" /></br><img src="PXL_20261030_000030762.jpg" width="250" />| <img src="PS.Bar.jpg" width="250" /></br><img src="PXL_20261030_191719525.jpg" width="250" />| <img src="WIN_20230712_15_37_18_Pro.jpg" width="250" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Me2 Time (Do Not Disturb!!)<img src="PXL_20241026_145450514-EDIT.jpg" width="150" />|
 |--|--|--|--|

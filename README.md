@@ -5,7 +5,7 @@
 
 **How history helps us UnderStand the true spirit of,Fresno.**
 
-## Early History of the Name “Fresno”
+## Early Narratives: What is in a name, “Fresno”
 
 **“Fresno” is Spanish for “ash tree.”** The name **Fresno River** was in use by the early 1850s, although its exact naming date is uncertain.
 

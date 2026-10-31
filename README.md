@@ -1,6 +1,8 @@
 # Fresno's Spiritual Fuel for Future?? 
 ## Battleground for Fresno's Spiritual Truth?? What is F.R.E.S.N.O.?
 
+*Does the SPIRIT of Fresno Drive Its Destiny??*
+
 ## Early History of the Name “Fresno”
 
 **“Fresno” is Spanish for “ash tree.”** The name **Fresno River** was in use by the early 1850s, although its exact naming date is uncertain.

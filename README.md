@@ -83,7 +83,27 @@ The crucial change was the growing claim that an accused person belonged to a **
 
 | <img src="QVZjc005QXNZM2c4TlpKMg.jpeg" width="250" /></br><img src="PXL_20261030_000030762.jpg" width="250" />| <img src="PS.Bar.jpg" width="250" /></br><img src="PXL_20261030_191719525.jpg" width="250" />| <img src="WIN_20230712_15_37_18_Pro.jpg" width="250" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Me2 Time (Do Not Disturb!!)<img src="PXL_20241026_145450514-EDIT.jpg" width="150" />|
 |--|--|--|--|
+
+## Brief History of Germany and the Holy Roman Empire
+
+**Germany became a unified nation-state in 1871, but its historical roots lie in the German-speaking territories of the Holy Roman Empire.** The empire’s territory differed considerably from modern Germany.
+
+| Period | Brief History and Territory |
+|---|---|
+| **Ancient era–800** | Various Germanic peoples inhabited central Europe. Rome controlled areas west of the Rhine and south of the Danube. Later, the **Frankish kingdom** united much of western and central Europe; Charlemagne became emperor in **800**. |
+| **843–962: East Francia** | The division of Charlemagne’s empire in **843** created **East Francia**, the principal political predecessor of medieval Germany. Its territories included much of present-day Germany and neighboring regions. |
+| **962–1806: Holy Roman Empire** | Conventionally dated from **Otto I’s imperial coronation in 962**, the empire centered on German lands. At different times it also included **Austria, Bohemia (much of today’s Czech Republic), the Low Countries, Switzerland, parts of eastern France, and northern and central Italy**. Its borders changed considerably. |
+| **Medieval and early modern empire** | The empire became a patchwork of duchies, principalities, bishoprics, and free cities under an elected emperor. **It was never a unified German nation-state.** The Reformation beginning in **1517** deepened religious divisions; the Thirty Years’ War (**1618–1648**) devastated many German territories. |
+| **1806–1871: Toward unification** | Napoleon’s victories brought the empire’s dissolution in **1806**. The **German Confederation**, established in **1815**, loosely associated 39 states, including Austria and Prussia through their participating territories. Their rivalry ended with Prussia leading unification and excluding Austria. |
+| **1871–1918: German Empire** | The German Empire was proclaimed in **1871** under the Prussian king. It included most of modern Germany, **Alsace-Lorraine**, and extensive eastern territories now in Poland and Russia. Austria remained separate. |
+| **1918–1945: Republic and dictatorship** | Defeat in World War I brought territorial losses and the **Weimar Republic**. Hitler took power in **1933**. Nazi Germany perpetrated the Holocaust and pursued territorial expansion, invading Poland in **1939**, beginning World War II in Europe. Germany was defeated in **1945**. |
+| **1945–1990: Division** | Germany’s former territories east of the **Oder–Neisse line** passed predominantly to Poland, while northern East Prussia came under Soviet control. Allied occupation led to the establishment of **West Germany and East Germany in 1949**. |
+| **1990–present: Reunified Germany** | East and West Germany reunited on **October 3, 1990**. Germany confirmed its existing borders, including its border with Poland, and continued as a federal parliamentary democracy within the European Union. |
+
+**Connection to the witch trials:** During the main European witch-trial period, “Germany” generally refers to the numerous German territories within the **Holy Roman Empire**. Their fragmented courts and governments help explain why prosecutions varied so sharply from one locality to another.
+
 | <img src="WIN_20230712_15_39_56_Pro.jpg" width="250" />| <img src="Doro2.jpg" width="250" />| <img src="WIN_20230712_15_40_16_Pro.jpg" width="250" />| <img src="Dora1.jpg" width="250" />|
+|--|--|--|--|
 | <img src="ShirelyAndDora1.jpg" width="250" /></br>Friendships (Rituals)<img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Eyes (iiiiiii)</br>(\* \*)| <img src="PXL_20250219_195401571.MP~2.jpg" width="150" /></br>Campus Administration</br>(Campus Police)</br><img src="PXL_20261028_145058141.jpg" width="250" /></br>Keeping Campuses Pretty| <img src="PXL_20231226_162839027.jpg" width="250" /></br><img src="fce3b462-e2e6-4f04-bfe5-f444cd60427d-copied-media~2.jpg" width="250" />| <img src="PXL_20261030_000030762.jpg" width="250" />|
 
 ## Illegal Immigration / Barter Economy: Serious Ethical Issues

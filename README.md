@@ -73,6 +73,42 @@ The strongest contrasts are between **Santa Ana’s predominantly Latino populat
 
 # Witchcraft, Female Sexuality, and Sexual Immorality: A Historical Overview
 
+# TRAMP
+
+## Tramp Nightclub: History, Founders, and Connection to Ghislaine Maxwell
+
+**Tramp** opened on **18 December 1969** at **40 Jermyn Street, St James’s, London**. Named after Charlie Chaplin’s “Tramp” character, it became a celebrated private nightclub where royalty, film stars, and musicians could socialize with considerable privacy. Its founders were **Johnny Gold, Oscar Lerman, and Bill Ofner**.
+
+### The Founders
+
+- **Johnny Gold (1932–2021)** became the club’s public face and principal host. A former bookmaker, he had previously managed **Dolly’s**, a fashionable London nightclub owned by Lerman. At Tramp, Gold cultivated personal relationships with celebrities and enforced rules against photography and autograph hunting. He sold his interest in **1998**, but continued welcoming guests until **2003**, before retiring to the Bahamas.
+
+- **Oscar Lerman (1919–1992)** was an American nightclub entrepreneur and film producer, and the husband of novelist **Jackie Collins**, whom he married in **1965**. He encouraged her writing and later produced adaptations including *The Stud* (1978) and *The Bitch* (1979). His entertainment connections helped link Tramp to the Collins sisters and their celebrity circle; nightclub scenes in *The Stud*, starring Joan Collins, were filmed there.
+
+- **Bill Ofner** was the third founding business partner and is less extensively documented in published accounts. Jackie Collins credited him with finding the premises, describing their division of responsibilities: **“Bill Ofner found it, Oscar Lerman designed it and Johnny Gold ran it.”**
+
+Their combination of hospitality, entertainment connections, and discretion helped make Tramp a fixture of London nightlife, attracting figures such as **Frank Sinatra, Mick Jagger, Michael Caine, and Joan Collins**.
+
+### Connection to Ghislaine Maxwell
+
+The club’s connection to **Ghislaine Maxwell** became widely publicized through **Virginia Giuffre’s allegations against Prince Andrew**. Giuffre said that, in **March 2001**, aged **17**, she visited Tramp with Andrew, Jeffrey Epstein, and Maxwell. She alleged that she danced with Andrew and that Maxwell subsequently directed her to have sex with him at Maxwell’s London townhouse.
+
+Andrew denied her account and settled her civil lawsuit in **2022 without admitting liability**. These allegations did not establish wrongdoing by Tramp or its founders.
+
+Maxwell was separately convicted in **2021** of crimes connected to Epstein’s sexual abuse of minors and sentenced to **20 years in prison in 2022**. That conviction was distinct from Giuffre’s specific allegations about the evening at Tramp.
+
+### Sources
+
+- [Evening Standard: Tramp at 50—Inside the Nightclub Loved by the Stars](https://www.standard.co.uk/news/london/tramp-at-50-inside-the-hedonistic-mayfair-nightclub-loved-by-the-stars-a4104761.html)
+- [Tatler: Johnny Gold, Founder of Tramp, Dies Aged 89](https://www.tatler.com/article/johnny-gold-the-legendary-founder-of-tramp-nightclub-has-died-aged-89)
+- [Publishing Business: Where Stars Shine Bright](https://www.pubbiz.com/article/where-stars-shine-bright/)
+- [Sky News: Giuffre’s Account of the Alleged Encounter](https://news.sky.com/story/jeffrey-epstein-accuser-i-was-trafficked-to-prince-andrew-11815144)
+- [ABC News: Prince Andrew’s Denials in His BBC Interview](https://abcnews.go.com/International/prince-andrew-bbc-interview-happened-virginia-giuffre/story?id=67076226)
+- [The Guardian: Prince Andrew’s Settlement with Virginia Giuffre](https://www.theguardian.com/uk-news/2022/feb/15/prince-andrews-settlement-with-virginia-giuffre-what-just-happened)
+- [U.S. Department of Justice: Maxwell Case and Sentencing Information](https://www.justice.gov/usao-sdny/human-trafficking-and-sexual-exploitation-minors)
+
+# WITCH
+
 One of the most revealing aspects of the European witch trials was the close association between **female sexuality, moral transgression, and supernatural evil**. From the late Middle Ages through the seventeenth century, theologians, religious authorities, and witch hunters increasingly characterized women as particularly vulnerable to the Devil because of their supposedly uncontrolled sexual desires.
 
 This association was not incidental. In some influential accounts of witchcraft, **female sexual immorality became both a sign of demonic influence and a supposed pathway to becoming a witch.**

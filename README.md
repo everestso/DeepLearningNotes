@@ -3,7 +3,7 @@
 
 *Does the Invisible SPIRIT (hidden/secret) of Fresno Drive Its Destiny??*
 
-*Will history help us UnderStand the true spirit of Fresno.*
+*Will history help us UnderStand the true spirit of,Fresno.*
 
 ## Early History of the Name “Fresno”
 

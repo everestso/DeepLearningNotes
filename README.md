@@ -22,7 +22,38 @@ The strongest contrasts are between **Santa Ana’s predominantly Latino populat
 
 | <img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="150" /></br>The Witchery</br>Castlehill, UK</br><img src="PXL_20261029_195631098.jpg" width="100" /></br>SCIENTIFIC Cultural Studies!</br>w/ CS Support</br><img src="ML92.gif" width="100" /></br>Aberdeen '92</br>Macallan 12</br>[Witchery (Rituals) Lunch](https://www.thewitchery.com/)</br><img src="g1-right-wrist-reach-step-0.gif" width="200" />|<img src="PXL_20261010_170222400~2.jpg" width="200" /></br> Kenny&Dora&M&S</br><img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Renaissance</br> (Rituals) Faire</br><img src="Heart_LQ1.jpg" width="250" />| CHINS</br><img src="PXL_20261028_192408009.MP.jpg" width="200" />| <img src="41CJPDXWK4L._AC_UF1000,1000_QL80_.jpg" width="250" /></br>Faculty/Student Dinners</br><img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br>Aberdeen '92</br>Jul 1–3 (Wed-Fri)|
 |--|--|--|--|
+
+## Alberto Maria Segre
+
+**Alberto Maria Segre** is a computer scientist whose career connects early artificial intelligence and machine learning with computational biology and public health. He is a professor and chair of Computer Science at the **University of Iowa**, where he holds the **Gerard P. Weeg Faculty Scholar in Informatics** appointment.
+
+### Background and Career
+
+- **Music and engineering:** He earned a BA in Music Theory and BS, MS, and PhD degrees in Electrical Engineering at the University of Illinois Urbana-Champaign, completing his doctorate in **1987**.
+- **Cornell and early AI:** Before joining Iowa in **1994**, he was an assistant professor at Cornell University. His early research included machine learning, automated planning, and robotic assembly.
+- **Distributed computing and biology:** He developed distributed search and optimization methods, with applications including protein structure prediction and locating disease-associated genetic mutations.
+
+### Computational Epidemiology
+
+Segre co-founded Iowa’s **Computational Epidemiology Research Group**, alongside physician **Philip Polgreen**. Their work uses computational models and simulations to study disease transmission, particularly in hospitals, and inform disease surveillance and prevention.
+
+In **2026**, he received Iowa’s **Regents Award for Faculty Excellence**, recognizing his research, teaching, and university service, including 16 years as department chair.
+
+### Connection to ML ’92 in Aberdeen
+
+Segre was at Cornell when he attended the **Ninth International Conference on Machine Learning**, held in **Aberdeen, Scotland, July 1–3, 1992**.
+
+He wrote **“The Ninth International Conference on Machine Learning,”** published in *AI Magazine*, **14(2), pages 16–17, Summer 1993**. His report confirms that the conference included an **evening poster session**, although it does not specify the day.
+
+### Sources
+
+- [University of Iowa — Faculty Profile](https://cs.uiowa.edu/people/alberto-segre)
+- [University of Iowa — Career and Research Biography](https://cs.uiowa.edu/event/30219/0)
+- [University of Iowa — 2026 Regents Award for Faculty Excellence](https://cs.uiowa.edu/news/2026/02/segre-receives-2026-regents-award-faculty-excellence)
+- [Segre’s ML ’92 Conference Report — PDF](https://scispace.com/pdf/the-ninth-international-conference-on-machine-learning-3ixajk6asr.pdf)
+
 | <img src="Feng_1-EDIT.jpg" width="250" /></br>Delivering Community Support</br>Delivery Messages| <img src="PXL_20261028_191211969.MP~2.jpg" width="200" />| Magic Tricks</br>(GOLD Mountain)</br>Now, Show Me</br>Deal Masters</br> <img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Daughter's Dangers</br>Immigrant First Gens </br>School (College) Risks</br>GOLD Mountain|<img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br>I M Busy</br><img src="QVZkZkhLNEZqYmZLOFBOSQ.jpeg " width="200" />|
+|--|--|--|--|
 | <img src="QVZjc005QXNZM2c4TlpKMg.jpeg" width="250" /></br><img src="PXL_20261030_000030762.jpg" width="250" />| <img src="PS.Bar.jpg" width="250" /></br><img src="PXL_20261030_191719525.jpg" width="250" />| <img src="WIN_20230712_15_37_18_Pro.jpg" width="250" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Me2 Time (Do Not Disturb!!)<img src="PXL_20241026_145450514-EDIT.jpg" width="150" />|
 | <img src="WIN_20230712_15_39_56_Pro.jpg" width="250" />| <img src="Doro2.jpg" width="250" />| <img src="WIN_20230712_15_40_16_Pro.jpg" width="250" />| <img src="Dora1.jpg" width="250" />|
 | <img src="ShirelyAndDora1.jpg" width="250" /></br>Friendships (Rituals)<img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Eyes (iiiiiii)</br>(\* \*)| <img src="PXL_20250219_195401571.MP~2.jpg" width="150" /></br>Campus Administration</br>(Campus Police)</br><img src="PXL_20261028_145058141.jpg" width="250" /></br>Keeping Campuses Pretty| <img src="PXL_20231226_162839027.jpg" width="250" /></br><img src="fce3b462-e2e6-4f04-bfe5-f444cd60427d-copied-media~2.jpg" width="250" />| <img src="PXL_20261030_000030762.jpg" width="250" />|

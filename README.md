@@ -1,4 +1,4 @@
-# Brief History of Downtown Fresno
+# Understanding Spirit of Fresno
 ## Battleground for Fresno's Spirit??
 
 **Downtown Fresno began as a railroad settlement in 1872 and grew into the San Joaquin Valley’s commercial and civic center.** Its history reflects agricultural prosperity, immigrant communities, suburban expansion, and repeated efforts at renewal.

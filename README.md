@@ -54,7 +54,29 @@ He wrote **“The Ninth International Conference on Machine Learning,”** publi
 
 | <img src="Feng_1-EDIT.jpg" width="250" /></br>Delivering Community Support</br>Delivery Messages| <img src="PXL_20261028_191211969.MP~2.jpg" width="200" />| Magic Tricks</br>(GOLD Mountain)</br>Now, Show Me</br>Deal Masters</br> <img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Daughter's Dangers</br>Immigrant First Gens </br>School (College) Risks</br>GOLD Mountain|<img src="PXL_20261026_192416837-EDIT-EDIT.jpg" width="200" /></br>I M Busy</br><img src="QVZkZkhLNEZqYmZLOFBOSQ.jpeg " width="200" />|
 |--|--|--|--|
+
+## Origins of European Witch Hunts
+
+European witch hunts developed gradually: **belief in magic was ancient, but large-scale trials for a supposed conspiracy of devil-worshipping witches emerged much later.**
+
+- **Ancient Europe:** Greek, Roman, Celtic, and Germanic societies practiced divination, healing rituals, protective charms, and curses. Authorities sometimes punished harmful magic, while other supernatural practices were accepted parts of religion and everyday life.
+
+- **Early Christian Europe, roughly 400–1000:** Church authorities condemned many magical practices as pagan or superstitious. Some influential church teaching treated supposed nighttime flights with supernatural beings as delusions rather than actual events.
+
+- **Medieval Europe, roughly 1000–1300:** Folk healing, charms, astrology, and learned ritual magic continued. Campaigns against heresy helped develop investigative institutions and ideas about organized enemies of Christianity that later influenced witch prosecutions.
+
+- **The turning point, roughly 1300–1450:** Some theologians and legal authorities increasingly connected harmful magic with **deliberate pacts with the Devil**. Separate beliefs about curses, demonic assistance, nighttime gatherings, and flight began merging into a broader concept of witchcraft.
+
+- **Early organized hunts, 1420s–1430s:** Major clusters of prosecutions appeared in the **western Alpine region**, including parts of present-day Switzerland and France. The **Valais trials beginning in 1428** are an important early example.
+
+- **Women and the “weaker vessel”:** Some witchcraft writers drew on misogynistic traditions and interpretations of Scripture to argue that women were weaker in faith and reason, and therefore more susceptible to temptation and witchcraft. They invoked Eve’s temptation and biblical language describing the wife as the **“weaker vessel” (1 Peter 3:7)**. **The verse itself does not associate women with witchcraft**; that connection was an interpretation used to justify prejudice. The passage also instructs husbands to honor their wives as fellow heirs of divine grace.
+
+- **Expansion, late 1400s onward:** Printed demonological writings—including the *Malleus Maleficarum* (**1486–1487**)—reinforced claims that women were especially susceptible to witchcraft. Women became the majority of those prosecuted across Europe, although the proportion varied considerably and men predominated in some regions. The largest hunts occurred especially **about 1560–1650**, amid religious conflict, political tensions, and local crises.
+
+The crucial change was the growing claim that an accused person belonged to a **collective, satanic threat**. This encouraged investigators to seek accomplices and allowed individual accusations to become mass prosecutions. **Gender prejudice helped determine who was most likely to be suspected.**
+
 | <img src="QVZjc005QXNZM2c4TlpKMg.jpeg" width="250" /></br><img src="PXL_20261030_000030762.jpg" width="250" />| <img src="PS.Bar.jpg" width="250" /></br><img src="PXL_20261030_191719525.jpg" width="250" />| <img src="WIN_20230712_15_37_18_Pro.jpg" width="250" /></br><img src="PXL_20261029_195631098.jpg" width="100" />| <img src="PXL_20261025_220720116-EDIT.jpg" width="150" /></br>Me2 Time (Do Not Disturb!!)<img src="PXL_20241026_145450514-EDIT.jpg" width="150" />|
+|--|--|--|--|
 | <img src="WIN_20230712_15_39_56_Pro.jpg" width="250" />| <img src="Doro2.jpg" width="250" />| <img src="WIN_20230712_15_40_16_Pro.jpg" width="250" />| <img src="Dora1.jpg" width="250" />|
 | <img src="ShirelyAndDora1.jpg" width="250" /></br>Friendships (Rituals)<img src="PXL_20261010_170222400~2.jpg" width="200" /></br>Eyes (iiiiiii)</br>(\* \*)| <img src="PXL_20250219_195401571.MP~2.jpg" width="150" /></br>Campus Administration</br>(Campus Police)</br><img src="PXL_20261028_145058141.jpg" width="250" /></br>Keeping Campuses Pretty| <img src="PXL_20231226_162839027.jpg" width="250" /></br><img src="fce3b462-e2e6-4f04-bfe5-f444cd60427d-copied-media~2.jpg" width="250" />| <img src="PXL_20261030_000030762.jpg" width="250" />|
 

@@ -1,3 +1,18 @@
+
+## Call for Papers: Artificial Intelligence Conference
+
+The **11th International Joint Conference on Artificial Intelligence (IJCAI ’89)** will be held **August 26, 1989, in Detroit, Michigan**.
+
+**December 12, 1988**, is the deadline for **four-to-ten-page, single-spaced papers** on some aspect of AI, including applications to text processing, scholarly research, and desktop publishing.
+
+**Contact:**  
+Dr. N. S. Sridharan  
+FMC Corporation  
+Central Engineering Labs  
+1205 Coleman Avenue, Box 580  
+Santa Clara, CA 95052  
+**Telephone:** (408) 289-0315
+
 ## Sixth International Workshop on Machine Learning
 ### Call for Papers
 

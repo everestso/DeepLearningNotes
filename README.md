@@ -1,5 +1,19 @@
 
-## Call for Papers: Artificial Intelligence Conference
+# Call for Papers: Artificial Intelligence Conference
+
+## Witches of Butler Park
+
+Reading about Sweden’s great witch trials of 1668–1676, known as *“The Great Noise,”* brings back an unlikely memory: my own introduction to witchcraft in fourth grade, at the age of nine. Children’s testimony played a central role in those trials, with adults giving authority to stories that helped send accused people to their deaths. The consequences were far removed from anything in my childhood, but the accounts make me think about how frightening stories circulate among children—and how compelling they can become.
+
+My introduction began with Bloody Mary. Someone explained that you could make her appear by standing before a mirror and repeating an incantation three times. I remember the beginning as “Bloody Mary in the mirror,” but the rest has slipped away. What remains is the premise: say the words, follow the instructions, and something might appear.
+
+From there, the games grew more elaborate. There was talk of a levitation spell, and several children attempted to levitate a fellow student inside a closet. I did not witness the attempt, so I cannot say exactly what happened. But the story of it became part of the experience—the claim that other children had tried something extraordinary, somewhere out of sight.
+
+The games culminated in an incident involving a student who was persuaded to enter a closet and recite the incantation. The student emerged crying, bringing the fear into the classroom. Whatever had been intended as a game, the distress was real.
+
+Looking back, I cannot know what each child believed, or how much was curiosity, performance, or pressure to go along. I remember fragments of words, an unwitnessed levitation attempt, and a frightened classmate. Those memories give me a small point of connection to the Swedish history: children can frighten one another through stories and shared expectations. In Sweden, adults and institutions gave such stories a terrible power. In our fourth-grade classroom, the consequences were smaller, but a child still came out of a closet in tears.
+
+## 11th International Joint Conference on Artificial Intelligence (IJCAI ’89)
 
 The **11th International Joint Conference on Artificial Intelligence (IJCAI ’89)** will be held **August 26, 1989, in Detroit, Michigan**.
 

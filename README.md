@@ -15,7 +15,7 @@ Looking back, I cannot know what each child believed, or how much was curiosity,
 
 An unsettling connection emerged as I considered the Swedish witch trials, in which children claimed they could identify witches and accused people in their own communities. The thought that games of witchcraft spreading from child to child could throw entire families into turmoil from their implications of how the knowledge of such things were learned, was ominous. 
 
-Such memories are as vivid as the carefree introduction of summer neighborhood BookMobile By classmates.
+Such memories are as vivid as the carefree introduction of summer neighborhood BookMobile By classmates. Interesting considering the range of childhood experiences with other children and their potential reflection on the differences in family backgrounds.  From witchcraft spells, to religious fundamentalism with large families living in tight quarters with no privacy, nightly bible study, and no modern television (only radio).
 
 ### Note
 In 1971, the neighborhood included **Mennonite Brethren Biblical Seminary**, at Butler and Chestnut avenues, adjacent to **Pacific College**, now Fresno Pacific University. The neighborhood also included a parent who was working toward a **PhD in theology**.

@@ -7,7 +7,7 @@ Reading about Sweden’s great witch trials of 1668–1676, known as *“The Gre
 
 My introduction began with Bloody Mary. Someone explained that you could make her appear by standing before a mirror and repeating an incantation three times. I remember the beginning as “Bloody Mary in the mirror,” but the rest has slipped away. What remains is the premise: say the words, follow the instructions, and something might appear.
 
-From there, the games grew more elaborate. There was talk of a levitation spell, and several children attempted to levitate a fellow student inside a closet. I did not witness the attempt, so I cannot say exactly what happened. But the story of it became part of the experience—the claim that other children had tried something extraordinary, somewhere out of sight.
+From there, the games grew more elaborate. There was talk of a levitation spell, and several children attempted to levitate a fellow student inside a closet. I did not witness the attempt, so I cannot say exactly what happened in that closet. What I can say, is that I have never forgotten being in the house when this spell was attempted in the closet, and how the story of it became part of the community experience—the claim that children had tried something extraordinary, somewhere out of sight.
 
 The games culminated in an incident involving a student who was persuaded to enter a closet and recite the incantation. The student emerged crying, bringing the fear into the classroom. Whatever had been intended as a game, the distress was real.
 

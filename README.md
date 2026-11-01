@@ -17,6 +17,12 @@ From there, the games grew more elaborate. There was talk of a levitation spell,
 
 The games culminated in an incident involving a student who was persuaded to enter a closet and recite the incantation. The student emerged crying, bringing the fear into the classroom. Whatever had been intended as a game, the distress was real.
 
+### Feeding the witch/kitty
+
+I think I remember later talk that a better rise in boy could be achieved by feeding spirit.
+Write an incantation on paper, roll it up and have boy hold in mouth while lying on back in closet.
+Then witch stands over boy and takes paper by bringing her knees together.
+
 Looking back, I cannot know what each child believed, or how much was curiosity, performance, or pressure to go along. I remember fragments of words, an unwitnessed levitation attempt, and a frightened classmate. Those memories give me a small point of connection to the Swedish history: children can frighten one another through stories and shared expectations. In Sweden, adults and institutions gave such stories a terrible power. In our fourth-grade classroom, the consequences were smaller, but a child still came out of a closet in tears.
 
 An unsettling connection emerged as I considered the Swedish witch trials, in which children claimed they could identify witches and accused people in their own communities. The thought that games of witchcraft spreading from child to child could throw entire families into turmoil from their implications of how the knowledge of such things were learned, was ominous. 

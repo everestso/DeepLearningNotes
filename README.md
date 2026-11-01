@@ -1,6 +1,12 @@
 
 # Call for Papers: Artificial Intelligence Conference
 
+## Jogging Ithaca
+
+While at the conference in 6/89 at Cornell, one morning I took a jog and ended up along a steep cliff that ran into a long line of fences. Not wanting to turn around, I decided to climb the fence so I could continue forward. Unfortunately, the top of the fence had barb wire and I cut my arm.  Still I felt fortunate to have managed to get back to road without retracing my steps.  Continuing to conference, I forgot about my new arm gash until looking at a colleague who I had taken a walk with that had also hit a few blockages, it suddenly reminded me of the bloody gash, at which moment we both looked at the long red gash on my forearm.
+
+Somehow this shared moment reminded me of shared moments with classmates when nine and fist learned of the culture of witches.
+
 ## Witches of Butler Park
 
 Reading about Sweden’s great witch trials of 1668–1676, known as *“The Great Noise,”* brings back an unlikely memory: my own introduction to witchcraft in fourth grade, at the age of nine ('71). Children’s testimony played a central role in those trials, with adults giving authority to stories that helped send accused people to their deaths. The consequences were far removed from anything in my childhood, but the accounts make me think about how frightening stories circulate among children—and how compelling they can become.

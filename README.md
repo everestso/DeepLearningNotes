@@ -13,6 +13,8 @@ The games culminated in an incident involving a student who was persuaded to ent
 
 Looking back, I cannot know what each child believed, or how much was curiosity, performance, or pressure to go along. I remember fragments of words, an unwitnessed levitation attempt, and a frightened classmate. Those memories give me a small point of connection to the Swedish history: children can frighten one another through stories and shared expectations. In Sweden, adults and institutions gave such stories a terrible power. In our fourth-grade classroom, the consequences were smaller, but a child still came out of a closet in tears.
 
+An unsettling connection emerged as I considered the Swedish witch trials, in which children claimed they could identify witches and accused people in their own communities. The thought that games of witchcraft spreading from child to child could throw entire families into turmoil from their implications of how the knowledge of such things were learned, was ominous. 
+
 ### Note
 In 1971, the neighborhood included **Mennonite Brethren Biblical Seminary**, at Butler and Chestnut avenues, adjacent to **Pacific College**, now Fresno Pacific University. The neighborhood also included a parent who was working toward a **PhD in theology**.
 

@@ -1,3 +1,90 @@
+## Sixth International Workshop on Machine Learning
+### Call for Papers
+
+**Cornell University**  
+Ithaca, New York; U.S.A.  
+**June 29 – July 1, 1989**
+
+### Original Message Information
+
+- **Date:** Sat, 4 Feb 89 21:52:51 -0500
+- **From:** se...@gvax.cs.cornell.edu (Alberto M. Segre)
+- **Subject:** 6th International Workshop on Machine Learning
+- **Distribution:** comp
+- **Organization:** Cornell Univ. CS Dept, Ithaca NY
+- **Status:** RO
+
+---
+
+The Sixth International Workshop on Machine Learning will be held at Cornell University from June 29 through July 1, 1989. The workshop will be divided into six parallel sessions, each focusing on a different theme:
+
+### Combining Empirical and Explanation-Based Learning
+**M. Pazzani, chair**
+
+Both empirical evaluation and theoretical analysis have been used to identify the strengths and weaknesses of individual learning methods. Integrated approaches to learning have the potential of overcoming the limitations of individual methods. Papers are solicited exploring hybrid techniques involving, for example, explanation-based learning, case-based reasoning, constructive induction, or neural networks.
+
+### Empirical Learning: Theory and Application
+**C. Sammut, chair**
+
+This session will be devoted to discussions on inductive (also called empirical) learning with particular emphasis on results that can be justified by theory or experimental evaluation. Papers should characterize methodologies (either formally or experimentally), their performance and/or problems for which they are well/ill suited. Comparative studies applying different methodologies to the same problem are also invited.
+
+### Learning Plan Knowledge
+**S. Chien and G. DeJong, co-chairs**
+
+This session will explore machine learning of plan-related knowledge; specifically, learning to construct, index, and recognize plans by using explanation-based, empirical, case-based, analogical, and connectionist approaches.
+
+### Knowledge-Base Refinement and Theory Revision
+**A. Ginsberg, chair**
+
+Knowledge-base refinement involves the discovery of plausible refinements to a knowledge base in order to improve the breadth and accuracy of the associated expert system. More generally, theory revision is concerned with systems that start out having some domain theory, but one that is incomplete and fallible. Two basic problems are how to use an imperfect theory to guide one in learning more about the domain as more experience accumulates, and how to use the knowledge so gained to revise the theory in appropriate ways.
+
+### Incremental Learning
+**D. Fisher, chair, with J. Grefenstette, J. Schlimmer, R. Sutton, and P. Utgoff**
+
+Incremental learning requires continuous adaptation to the environment subject to performance constraints of timely response, environmental assumptions such as noise or concept drift, and knowledge base limitations. Papers that cross traditionally disparate paradigms are highly encouraged, notably rule-based, connectionist, and genetic learning; explanation-based and inductive learning; procedure and concept learning; psychological and computational theories of learning; and belief revision, bounded rationality, and learning.
+
+### Representational Issues in Machine Learning
+**D. Subramanian, chair**
+
+This session will study representational practice in machine learning in order to understand the relationship between inference (inductive and deductive) and choice of representation. Present-day learners depend on careful vocabulary engineering for their success. What is the nature of the contribution representation makes to learning, and how can we make learners design/redesign hypotheses languages automatically? Papers are solicited in areas including, but not limited to, bias, representation change and reformulation, and knowledge-level analysis of learning algorithms.
+
+## Participation
+
+Each workshop session is limited to between **30 and 50 participants**. In order to meet this size constraint, attendance at the workshop is **by invitation only**. If you are active in machine learning and you are interested in receiving an invitation, we encourage you to submit a short vita (including relevant publications) and a one-page research summary describing your recent work.
+
+Researchers interested in presenting their work at one of the sessions should submit an extended abstract (**4 pages maximum**) or a draft paper (**12 pages maximum**) describing their recent work in the area. Final papers will be included in the workshop proceedings, which will be distributed to all participants.
+
+## Submission Requirements
+
+Each submission (research summary, extended abstract, or draft paper) must be clearly marked with the author's name, affiliation, telephone number and Internet address. In addition, you should clearly indicate for which workshop session your submission is intended.
+
+**Deadline for submission is March 1, 1989.** Submissions should be mailed directly to:
+
+6th International Workshop on Machine Learning  
+Alberto Segre, Workshop Chair  
+Department of Computer Science  
+Upson Hall  
+Cornell University  
+Ithaca, NY 14853-7501  
+USA
+
+**Telephone:** (607) 255-9196  
+**Internet:** ml...@cs.cornell.edu
+
+While hardcopy submissions are preferred, electronic submissions will be accepted in **TROFF (me or ms macros), LaTeX or plain TeX**. Electronic submissions must consist of a single file. Be sure to include all necessary macros; it is the responsibility of the submitter to ensure his/her paper is printable without special handling. Foreign contributors may make special arrangements on an individual basis for sending their submissions via FAX.
+
+Submissions will be reviewed by the individual session chair(s). Determinations will be made by **April 1, 1989**. Attendance at the workshop is by invitation only; you must submit a paper, abstract or research summary in order to be considered. While you may make submissions to more than one workshop session, each participant will be invited to only one session.
+
+## Important Dates
+
+| Date | Event |
+|---|---|
+| **March 1, 1989** | Submission deadline for research summaries, extended abstracts and draft papers. |
+| **April 1, 1989** | Invitations issued; presenters notified of acceptance. |
+| **April 20, 1989** | Final camera-ready copy of accepted papers due for inclusion in proceedings. |
+
+---
+
 # Fresno's Spiritual Fuel for Future?? 
 ## Battleground for Fresno's Spiritual Truth?? What is F.R.E.S.N.O.?
 

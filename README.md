@@ -34,7 +34,7 @@ In 1971, the neighborhood included **Mennonite Brethren Biblical Seminary**, at 
 
 # Psyche and Books
 ## Retracing Reasoning-Contexts and State-Tokens from Past
-| <img src="vg_1.png" width="150" /></br> Recent|<img src="Noise2.jpg" width="200" /></br> Seth @ Sequoia| <img src="PXL_20241111_214050001.jpg" width="200" /></br>FSU| <img src="31425962258.jpg" width="200" /></br> Sequoian's Time (7th, 8th, 9th)</br>Good Conversations</br>With Fundamentalists|
+| <img src="vg_1.png" width="150" /></br> Recent:</br>Retracing Unusual Career Paths|<img src="Noise2.jpg" width="200" /></br>OCCULT: Intros</br> Seth @ Sequoia| <img src="PXL_20241111_214050001.jpg" width="200" /></br>FSU| <img src="31425962258.jpg" width="200" /></br> Sequoian's Time (7th, 8th, 9th)</br>Good Conversations</br>With Fundamentalists|
 |--|--|--|--|
 | <img src="s-l1200.jpg" width="150" /></br>10th Grade</br>Drug Intro</br>With Head Shops|<img src="unnamed-1-225x300.png" width="200" /></br>LGBTQ+ Intro At </br>Sequoia| <img src="2eb58f68-ee42-44ed-8990-8977645e4d38.jpg" width="200" /></br> ETHICS</br>The Godfather 6th Grade| |
 

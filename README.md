@@ -34,7 +34,7 @@ In 1971, the neighborhood included **Mennonite Brethren Biblical Seminary**, at 
 
 # Psyche and Books
 ## Retracing Reasoning-Contexts and State-Tokens from Past
-| <img src="vg_1.png" width="150" /></br> Recent:</br>Retracing Unusual Career Paths|<img src="Noise2.jpg" width="200" /></br>OCCULT: Intros</br> Seth @ Sequoia| <img src="31425962258.jpg" width="200" /></br> Sequoian's Time (7th, 8th, 9th)</br>Good Conversations</br>With Fundamentalists</br>w/ NO TV| <img src="PXL_20241111_214050001.jpg" width="200" /></br>FSU</br>Move REAL Fast|
+| <img src="vg_1.png" width="150" /></br> Recent:</br>Retracing Unusual Career Paths|<img src="Noise2.jpg" width="200" /></br>OCCULT: Intros</br> Seth @ Sequoia| <img src="31425962258.jpg" width="200" /></br> Sequoian's Time (7th, 8th, 9th)</br>Good Conversations</br>With Fundamentalists</br>w/ NO TV| <img src="PXL_20241111_214050001.jpg" width="200" /></br>FSU</br>Move REAL Fast</br>Winning Races|
 |--|--|--|--|
 | <img src="s-l1200.jpg" width="150" /></br>Drug Intro with</br>NEW Head Shops</br>10th Grade|<img src="unnamed-1-225x300.png" width="200" /></br>SOCRATES:</br>LGBTQ+ Intro </br>At Sequoia</br>(Roman Rolls Royce)| <img src="2eb58f68-ee42-44ed-8990-8977645e4d38.jpg" width="200" /></br> ETHICS</br>The Godfather 6th Grade| |
 

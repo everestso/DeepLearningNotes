@@ -1,3 +1,17 @@
+# Exploring The Fresno Identity
+## Raisins, Sun-Maid, The Fresno Bee, and the Big Fresno Fair
+
+Somewhere beyond Fresno’s last stoplight, the grapevines begin to explain the city. Their rows carry the eye toward the horizon, tracing a landscape shaped by summer heat, irrigation, and the patient work of tending a crop. Here, even something as ordinary as a raisin can hold a sense of place.
+
+The city’s beginnings belong to another set of lines: railroad tracks. Fresno was founded in 1872, when the Central Pacific Railroad established Fresno Station. Around that stopping place, a community took shape, its fortunes increasingly connected to the surrounding farmland.
+
+On a Sun-Maid box, that agricultural world becomes a cheerful image: a red bonnet, a basket of grapes, an unfailing sun. Beyond the package are the people who prune the vines, manage the water, and bring in the harvest. Fresno’s identity lives in the distance between the familiar picture and the demanding work behind it.
+
+The community also came to know itself through the newspaper. On October 17, 1922—fifty years after Fresno’s founding—*The Fresno Bee* published its first edition. Its pages would become a place to encounter the Valley’s public arguments and everyday milestones, a running record of a city still deciding what it might become.
+
+At the Big Fresno Fair, the county gathers to see itself in person. Its roots reach back to December 1882, when local agricultural and business leaders organized the fair and incorporated the Fresno Fairgrounds Association. The first fair ran October 7–11, 1884, bringing together horse racing, livestock, and produce exhibits. Beneath today’s midway lights, agricultural displays share the grounds with food stands, music, and families making their annual rounds. What grows outside the city becomes something to admire together.
+
+Raisins, railroad tracks, newspaper pages, and fairgrounds: each offers a way into Fresno’s story. Together, they suggest an identity rooted in work, sustained by the land, and renewed whenever the community gathers to tell its own story.
 
 # Call for Papers: Artificial Intelligence Conference
 

@@ -1,4 +1,11 @@
 # Exploring The Fresno Identity
+
+## Reasoning Context: 2026.11.03
+
+|  Plain Or BBQ</br>Plain Or Glazed</br>Plain Or Smokey</br>Who Wants PLAIN?</br><img src="PXL_20250904_150844308-EDIT.jpg" width="150" /></br>Here's your </br>One Chance.</br><img src="PXL_20260427_141839505~2.jpg" width="150" />| Don't let me down</br><img src="vg_1.png" width="150" /> |  <img src="PXL_20260729_005311082~2.jpg" width="150" />|  <img src="PXL_20260820_024513777.jpg" width="150" />|
+|--|--|--|--|
+|  <img src="PXL_20261001_181859481 (1).jpg" width="150" />|  <img src="QVZmVnRma0prMTMyY2hvYw~2-EDIT.jpg" width="150" /> |   <img src="" width="150" />|  <img src="" width="150" />|
+
 ## Fresno: Raisins, Sun-Maid, The Fresno Bee, the Big Fresno Fair, Horse Racing, and Gambling
 
 Somewhere beyond Fresno’s last stoplight, the grapevines begin to explain the city. Their rows carry the eye toward the horizon, tracing a landscape shaped by summer heat, irrigation, and the patient work of tending a crop. Here, even something as ordinary as **raisins** can hold a sense of place.

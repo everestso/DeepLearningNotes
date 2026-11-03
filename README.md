@@ -17,6 +17,22 @@ Beneath the fair’s midway lights, agricultural displays share the grounds with
 
 **Raisins, Sun-Maid, The Fresno Bee, and the Big Fresno Fair** offer familiar landmarks in Fresno’s identity. Behind them lie the vineyards, the railroad, the work of the harvest, and the wagers made beside the racetrack. Together, they tell of a city built through labor and enterprise, with room for celebration—and for the hope that the next season, or the next race, might bring a better return.
 
+## Fresno: Growth w/ Gambling and Conventions
+
+Another element of **Fresno’s vibrant identity** took shape in its hotel lobbies, convention halls, and racetrack grandstands. Alongside the vineyards and packinghouses, these gathering places reveal a city that welcomed visitors, cultivated business, and made room for entertainment and chance.
+
+**Horse racing and gambling** had accompanied the earliest Fresno fairs, with farm owners wagering among neighbors and friends. In **1941**, Fresno held its first **pari-mutuel horse-racing meeting**, bringing that tradition into a regulated system. Bettors’ money was pooled, authorized shares were deducted, and the remainder was distributed among those holding winning tickets.
+
+The system occupied contested ground in California. The state had authorized pari-mutuel wagering in **1933**, creating a limited exception to its broader prohibitions on gambling. Legal challenges questioned that distinction, although the courts upheld it. The betting window became a place where recreation, commercial enterprise, and public regulation met—adding another dimension to the fair’s agricultural identity.
+
+During the **1950s and 1960s**, Fresno’s role as a gathering place expanded. Its central location made it a practical meeting point for California organizations, while affordable accommodations helped attract convention visitors. **Memorial Auditorium** hosted fraternal and political gatherings, including the **1956 California Democratic Convention**, attended by Adlai Stevenson and Estes Kefauver.
+
+The opening of **Del Webb’s TowneHouse in 1964** gave this hospitality a modern landmark, combining a downtown hotel with offices, shops, and parking. The **Fresno Convention Center**, opened in **1966**, provided a larger stage for meetings, exhibitions, performances, and crowds. Convention visitors brought business to hotels, restaurants, and shops, making hospitality part of the downtown economy.
+
+The grandstand and convention hall served different purposes, but both brought people together and drew money into circulation. One gathered spectators around the suspense of a race; the other assembled delegates around shared business, professional, and civic interests. Together, they broadened Fresno’s identity beyond the harvest.
+
+Beside **raisins, Sun-Maid, The Fresno Bee, and the Big Fresno Fair**, these places tell of a city eager to host and entertain. Fresno’s vitality could be found in the work of its fields, the conversation of a crowded banquet room, and the sudden roar from a grandstand as the horses approached the finish.
+
 # Psyche and Books
 ## Retracing Reasoning-Contexts and State-Tokens from Past
 | <img src="QVZmVnRma0prMTMyY2hvYw~2-EDIT.jpg" width="150" /></br><img src="vg_1.png" width="150" /></br> Recent:</br>Retracing Paths</br>For Unusual CAREERS</br><img src="QVZmVnRma0prMTMyY2hvYw~2.jpeg" width="150" /></br><img src="PXL_20261102_225751313.jpg" width="150" />|<img src="Feng_1-EDIT.jpg" width="250" /></br><img src="Noise2.jpg" width="200" /></br>OCCULT: Intros</br> Seth @ Sequoia</br><img src="PXL_20261010_170222400~2.jpg" width="200" /></br> Kenny&Dora&M&S| <img src="PXL_20240126_033338463.MP.jpg" width="200" /> </br><img src="31425962258.jpg" width="200" /></br> Sequoian's Time (7th, 8th, 9th)</br>Good Conversations</br>With Fundamentalists</br>w/ NO TV</br>TV is BAD</br>Books are GOOD</br>Bible is Book</br>Bible is GOOD| <img src="PXL_20261012_215753844.jpg" width="200" /></br><img src="PXL_20241111_214050001.jpg" width="200" /></br>FSU</br>Move REAL Fast</br>Winning Races</br><img src="PXL_20261012_220352269.MP.jpg" width="200" />|

@@ -1,6 +1,6 @@
 # Irvine Context
 
-| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" /> </br>Constructive Dreams| <img src="PXL_20231014_144147967 (1).jpg" width="150" /></br>Window Shadows|<img src="3aa15d54-804d-4364-bc9e-7ae58c944913.webp" width="150" /> </br>Deceptive Dreams| <img src="79c5668c-7b98-43e3-bf9b-037fb4a26b0d-copied-media~2.jpg" width="150" /></br>Westin</br>Sitting And Spinning|
+| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" /> </br>Constructive Dreams| <img src="PXL_20231014_144147967 (1).jpg" width="150" /></br>Window Shadows|<img src="3aa15d54-804d-4364-bc9e-7ae58c944913.webp" width="150" /> </br>Deceptive Dreams| <img src="79c5668c-7b98-43e3-bf9b-037fb4a26b0d-copied-media~2.jpg" width="150" /></br>Tropicana 2 Westin</br>Sitting And Spinning|
 |--|--|--|--|
 
 # Exploring The Fresno Identity

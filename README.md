@@ -1,6 +1,6 @@
 # Irvine Context
 
-| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" />| <img src="PXL_20231014_144147967 (1).jpg" width="150" />| |
+| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" /> Constructive Dreams| <img src="PXL_20231014_144147967 (1).jpg" width="150" /></br>Window Shadows|<img src="3aa15d54-804d-4364-bc9e-7ae58c944913.webp" width="150" /> Deceptive Dreams|
 |--|--|--|
 
 # Exploring The Fresno Identity

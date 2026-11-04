@@ -1,6 +1,6 @@
 # Irvine Context
 
-| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" />| | |
+| <img src="7079a516-8dfd-4f11-9595-d8be6dacb239-copied-media~2.jpg" width="150" />| <img src="PXL_20231014_144147967 (1).jpg" width="150" />| |
 |--|--|--|
 
 # Exploring The Fresno Identity

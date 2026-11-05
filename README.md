@@ -6,7 +6,7 @@ Understanding how Modern Civilizations support prepping children for full range 
 
 |  <img src="ce043564-b289-4145-8dc0-55233ac7beb5-copied-media~2.jpg" width="300" /> </br>x_1 | <img src="01f18deb-e3a6-4faf-b558-85e3c1ed4a7b-copied-media~2.jpg" width="300" /> </br> x_2| <img src="PXL_20261105_181033894.jpg" width="200" /> </br>x_3 |
 |---|---|---|
-| <img src="PXL_20250104_193315122.jpg" width="350" />  </br>x_4| <img src="PXL_20261105_183848536.MP.jpg" width="350" />  </br>x_5|  <img src="Blurred Netflix Scene with Pink Tones.png" width="350" />  </br>x_6: Dropped by Group</br>Not Doing Enough! |
+| <img src="PXL_20250104_193315122.jpg" width="350" />  </br>x_4| <img src="PXL_20261105_183848536.MP.jpg" width="350" />  </br>x_5: Push to 9</br>Back Off|  <img src="Blurred Netflix Scene with Pink Tones.png" width="350" />  </br>x_6: Dropped by Group</br>Not Doing Enough! |
 
 
 ## Token x_1

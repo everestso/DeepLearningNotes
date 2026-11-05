@@ -3,6 +3,10 @@
 
 Understanding how Modern Civilizations support prepping children for full range of social roles.
 
+
+|  <img src="PXL_20261105_181033894.jpg" width="200" /> |  <img src="ce043564-b289-4145-8dc0-55233ac7beb5-copied-media~2.jpg" width="300" /> | <img src="01f18deb-e3a6-4faf-b558-85e3c1ed4a7b-copied-media~2.jpg" width="300" />|
+|---|---|---|
+
 ## Token x_1
 
 | <img src="ce043564-b289-4145-8dc0-55233ac7beb5-copied-media~2.jpg" width="800" /> |

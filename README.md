@@ -1,7 +1,7 @@
 
 # Reasoning Context Token: 2026_11_05_273ThuLateMorn
 
-| <img src="ce043564-b289-4145-8dc0-55233ac7beb5-copied-media~2.jpg" width="600" /> |
+| <img src="ce043564-b289-4145-8dc0-55233ac7beb5-copied-media~2.jpg" width="800" /> |
 |---|
 
 # Irvine Context

@@ -3,7 +3,7 @@
 
 + Sing, 'Soft Kitty' to me.
 
-| <img src="0b76883f-106b-4743-b68a-7cac504cfd55-copied-media~2.jpg" width="300" />  |  <img src="PXL_20240624_152218905-EDIT (2).jpg" width="300" />|  <img src="Jergens-lotion-The-healer-1967-EDIT.jpg" width="300" />|  <img src="PXL_20261025_005740683-EDIT-EDIT.jpg" width="300" />|  <img src="PXL_20250428_005828836.jpg" width="300" />|
+| <img src="0b76883f-106b-4743-b68a-7cac504cfd55-copied-media~2.jpg" width="300" />  |  <img src="PXL_20240624_152218905-EDIT (2).jpg" width="300" />|  Choo, Choo, Choo_Choo_</br><img src="Jergens-lotion-The-healer-1967-EDIT.jpg" width="300" /></br>Tell me about</br>the Rabbits, George|  <img src="PXL_20261025_005740683-EDIT-EDIT.jpg" width="300" />|  <img src="PXL_20250428_005828836.jpg" width="300" />|
 |--|--|--|--|--|
 | <img src="PXL_20240624_152308761-EDIT.jpg" width="300" />| <img src="Dora1.jpg" width="500" />| <img src="ShirelyAndDora1.jpg" width="500" />| | |
 

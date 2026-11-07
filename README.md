@@ -3,6 +3,31 @@
 
 + Sing, 'Soft Kitty' to me.
 
+## Mother's Bed Ritual: Abdominal Dry Cupping: A Traditional Folk Remedy
+
+**Abdominal fire cupping** is a form of **dry cupping**, meaning that suction is applied without cutting the skin or drawing blood. A documented European folk variation used bread, matches, and an ordinary drinking glass to treat stomach discomfort.
+
+### Historical Procedure
+
+The following describes a recorded folk practice, rather than recommended medical instructions:
+
+1. The person lay on their back.
+2. A small piece of bread was placed on the abdomen, supporting upright matches.
+3. The matches were lit and covered with an inverted glass.
+4. As the flame extinguished and the trapped gases cooled, pressure inside the glass decreased, producing suction.
+5. The suction drew the skin upward; the glass was subsequently removed by releasing its seal.
+
+An ethnographic study of Czech communities in Ukraine records this bread-and-matches method. One explanation given by practitioners was that physical exertion had displaced or loosened the stomach, and cupping would “lift up” the stomach. This was a traditional interpretation: the visible lifting of skin does not demonstrate movement of the stomach itself.
+
+### Medical Understanding
+
+The suction acts on the skin and superficial tissue. There is insufficient high-quality evidence that cupping effectively treats digestive disorders. Fire cupping can cause burns, bruising, persistent discoloration, scarring, and infection.
+
+### References
+
+- *Historical Cupping Therapy within the Czech Community in Ukraine in the Context of Contemporary Complementary and Alternative Medicine in the Czech Republic.* Ethnographic account documenting the bread, matches, and glass method. [Article PDF](https://www.ejournals.eu/pliki/art/16533/).
+- National Center for Complementary and Integrative Health, National Institutes of Health. [Cupping](https://www.nccih.nih.gov/health/cupping). Overview of cupping, research limitations, and safety concerns.
+
 | <img src="0b76883f-106b-4743-b68a-7cac504cfd55-copied-media~2.jpg" width="200" />  |  <img src="PXL_20240624_152218905-EDIT (2).jpg" width="200" />|  Choo, Choo, Choo_Choo_</br><img src="Jergens-lotion-The-healer-1967-EDIT.jpg" width="100" /></br>Tell me about</br>the Rabbits, George</br>Sing Soft Kitty|  <img src="PXL_20240624_152205191.jpg" width="200" />|  <img src="PXL_20250428_005828836.jpg" width="200" />|
 |--|--|--|--|--|
 | <img src="PXL_20240624_152308761-EDIT.jpg" width="200" />| <img src="Dora1.jpg" width="200" />| <img src="ShirelyAndDora1.jpg" width="200" />| <img src="PXL_20261025_005740683-EDIT-EDIT.jpg" width="200" />| |

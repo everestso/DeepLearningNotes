@@ -11,7 +11,7 @@
 
 The following describes a recorded folk practice, rather than recommended medical instructions:
 
-1. The person lay on their back and removes clothing.
+1. Mother lays the person on their back and removes clothing.
 2. A small piece of bread was placed on the lowest abdomen, supporting upright matches.
 3. The matches were lit and covered with an inverted glass.
 4. As the flame extinguished and the trapped gases cooled, pressure inside the glass decreased, producing strong suction on lowest naked abdomen.

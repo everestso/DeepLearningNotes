@@ -4,6 +4,7 @@
 + Sing, 'Soft Kitty' to me.
 
 ## Mother's Bed Ritual: Abdominal Dry Cupping: A Traditional Folk Remedy
+## Helping with sleeep
 
 **Abdominal fire cupping** is a form of **dry cupping**, meaning that suction is applied without cutting the skin or drawing blood. A documented European folk variation used bread, matches, and an ordinary drinking glass to treat stomach discomfort.
 

@@ -14,7 +14,7 @@ The following describes a recorded folk practice, rather than recommended medica
 1. The person lay on their back and removes clothing.
 2. A small piece of bread was placed on the lowest abdomen, supporting upright matches.
 3. The matches were lit and covered with an inverted glass.
-4. As the flame extinguished and the trapped gases cooled, pressure inside the glass decreased, producing suction.
+4. As the flame extinguished and the trapped gases cooled, pressure inside the glass decreased, producing strong suction on lowest naked abdomen.
 5. The suction drew the skin upward; the glass was subsequently removed by releasing its seal.
 
 An ethnographic study of Czech communities in Ukraine records this bread-and-matches method. One explanation given by practitioners was that physical exertion had displaced or loosened the stomach, and cupping would “lift up” the stomach. This was a traditional interpretation: the visible lifting of skin does not demonstrate movement of the stomach itself.

@@ -1,6 +1,6 @@
 ## Humanism, the Political Left, Oppenheimer, and Steinbeck
 
-One humanist attraction of the **political Left—including Communist movements—**has been its insistence that human worth exceeds economic usefulness, citizenship, or national allegiance. People deserve empathy and protection even when they lack wealth, bargaining power, or membership in the dominant community. This commitment is not exclusive to the Left, and Communist governments have often violated it.
+One humanist attraction of the **political Left—including Communist movements—** has been its insistence that human worth exceeds economic usefulness, citizenship, or national allegiance. People deserve empathy and protection even when they lack wealth, bargaining power, or membership in the dominant community. This commitment is not exclusive to the Left, and Communist governments have often violated it.
 
 ### Oppenheimer and Steinbeck
 

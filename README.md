@@ -1,3 +1,21 @@
+## *In Dubious Battle* — John Steinbeck (1936)
+
+*In Dubious Battle* follows a strike among apple pickers in California’s fictional **Torgas Valley**, drawing on the agricultural labor conflicts of the Great Depression.
+
+### The Communist Component
+
+The central characters are **Jim Nolan**, a new recruit to a Communist organization, and **Mac McLeod**, an experienced Communist organizer. They help workers resist a wage cut, interpreting the conflict as part of a broader **class struggle between labor and capital**.
+
+Their organizing depends on solidarity, discipline, and collective action. However, Mac also treats individual suffering—and potentially death—as a means of strengthening the movement. Jim’s increasing commitment raises a troubling question: is he developing political purpose, or learning to subordinate people to an ideology?
+
+### Compassion and Political Strategy
+
+Steinbeck portrays the workers’ grievances sympathetically while questioning the organizers’ methods. **Doc Burton**, a physician assisting the strikers, challenges ideological certainty and the treatment of individuals as instruments of a cause.
+
+The novel is therefore **neither a straightforward endorsement of Communism nor a dismissal of labor organizing**. It explores the tension between fighting exploitation and reproducing dehumanization through revolutionary strategy.
+
+Published before *Of Mice and Men* (1937) and *The Grapes of Wrath* (1939), it asks whether a movement pursuing justice can remain compassionate toward the particular people whose lives it claims to improve.
+
 # Reasoning Context Token: 2026_11_07_1536_LateNite
 ## Tell Me about the Rabbits, George. Tell me about the Rabbits.
 

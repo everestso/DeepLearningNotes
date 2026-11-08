@@ -1,3 +1,44 @@
+## J. Robert Oppenheimer (1904–1967): Science, Communism, and Political Suspicion
+
+**J. Robert Oppenheimer** was an American theoretical physicist best known for directing the **Los Alamos Laboratory during the Manhattan Project**, which developed the first atomic bombs.
+
+Born into a prosperous Jewish family in New York, he studied at Harvard, Cambridge, and Göttingen, completing his doctorate in 1927. In **1929**, he began teaching at **UC Berkeley and Caltech**, helping establish American theoretical physics. After World War II, he directed the **Institute for Advanced Study in Princeton from 1947 to 1966**.
+
+### His Connection to Communism
+
+During the **1930s**, Oppenheimer became involved in left-wing politics, supporting anti-fascist causes, labor organizing, and assistance to the Spanish Republic. He contributed money through Communist-linked networks and associated closely with Communist Party members.
+
+These connections extended into his personal life:
+
+- **Jean Tatlock**, his romantic partner during the late 1930s, was a Communist Party member.
+- **Katherine “Kitty” Oppenheimer**, whom he married in 1940, had previously belonged to the party.
+- **Frank Oppenheimer**, his younger brother, and Frank’s wife Jackie were party members.
+
+**Robert Oppenheimer consistently denied formal Communist Party membership.** Historians have disputed whether his participation in a private Berkeley discussion group constituted membership in a concealed party unit. His substantial Communist associations and financial support are better established than a definitive answer about formal membership.
+
+### The Manhattan Project and the Security Hearing
+
+Despite these associations, General **Leslie Groves** selected Oppenheimer to lead Los Alamos. His scientific leadership proved essential to the project.
+
+After the war, Oppenheimer supported international control of atomic energy and opposed a crash program to develop the hydrogen bomb. His policy disagreements, earlier political associations, and handling of security matters became central to a **1954 hearing that resulted in the loss of his security clearance**.
+
+**Communist association was not proof of espionage:** the hearing did not establish that Oppenheimer was a Soviet spy.
+
+In **2022**, the Department of Energy vacated the 1954 decision, describing the process as flawed and contrary to the Atomic Energy Commission’s own regulations.
+
+### Connection to Steinbeck’s California
+
+Oppenheimer and Steinbeck inhabited different professional worlds, but both encountered a California where **Communist organizing overlapped with broader movements against fascism, poverty, and labor exploitation**.
+
+The comparison helps explain the period: supporting a cause also supported by Communists did not necessarily mean accepting every party doctrine. At the same time, Oppenheimer’s involvement went beyond casual sympathy and later became a powerful source of political vulnerability.
+
+### References
+
+- Institute for Advanced Study. [J. Robert Oppenheimer: Life, Work, and Legacy](https://www.ias.edu/oppenheimer-legacy).
+- Atomic Heritage Foundation / Nuclear Museum. [Oppenheimer Security Hearing](https://ahf.nuclearmuseum.org/ahf/history/oppenheimer-security-hearing/).
+- Yale Law School, Avalon Project. [1954 Security Hearing Documents](https://avalon.law.yale.edu/20th_century/opp01.asp).
+- U.S. Department of Energy. [2022 Statement Vacating the 1954 Decision](https://www.energy.gov/articles/secretary-granholm-statement-doe-order-vacating-1954-atomic-energy-commission-decision).
+
 ## *In Dubious Battle* — John Steinbeck (1936)
 
 *In Dubious Battle* follows a strike among apple pickers in California’s fictional **Torgas Valley**, drawing on the agricultural labor conflicts of the Great Depression.

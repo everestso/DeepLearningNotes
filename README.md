@@ -12,6 +12,8 @@ Love, for example, plays a key social role in Christian Culture. Love within com
 
 This then leads to those that would have more skill in the process that leads to this resonant state, as in the series The Cleaning Lady, where hackers routinely establish strong intimate ties so as to use the connection to influence others into providing them funds.  
 
+The idea, is that somehow this mutual state brings the two minds together, so they can more effectively operate as one mind.
+
 ## Historically Irresistible: Globally  
 
 | <img src="QVZjMjA3VEVNcE9ONVRyRA-EDIT.jpg" width="200" /></br>Trust</br><img src="PXL_20260626_234523179.MP-EDIT.jpg" width="200" /></br>Nobody's Perfect | <img src="PXL_20261109_054953687.jpg" width="500" /></br>Challenge Dating</br>International Diamond Thief</br>Trophy Jobs</br><img src="PXL_20261109_191601226.jpg" width="500" /></br>Trust| Who Seees REAL You???</br><img src="PXL_20240126_033338463.MP.jpg" width="300" /></br>Top That!|

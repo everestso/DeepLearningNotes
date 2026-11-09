@@ -1,5 +1,5 @@
 # Ultimate Courtesans
-## Historically Globally Irresistible 
+## Historically Irresistible: Globally  
 
 | <img src="QVZjMjA3VEVNcE9ONVRyRA-EDIT.jpg" width="200" /> | <img src="PXL_20261109_054953687.jpg" width="500" />|
 |--|--|

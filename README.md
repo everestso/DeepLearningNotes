@@ -2,8 +2,8 @@
 
 ## Co-Resonant Mental States
 
-Consider love as a state of mind between two people where their minds compatibly come mix.  So when they interact, the interaction is positive. When thinking about problems, their interactions are largely positive.  When walking quietly, the two minds are in mutually joyful states (perhaps without conscious Abstraction thinking).
-
+Consider love as a state of mind between two people where their minds compatibly come mix.  So when they interact, the interaction is positive. When thinking about problems, their interactions are largely positive.  When walking quietly, the two minds are in mutually joyful states (perhaps without conscious Abstraction thinking). The state also creates a strong attachment between the minds, that helps maintain a kind of correlated reasoning.
+ 
 Other kinds of co-resonant state are also possible, as are alternate kinds of deep emotional attachment.  These resonant states between intelligent agents could play important role in facilitating collaboration between AI Agents.
 
 **Loving Agents Reason More Strongly**, or **Loving Agents Create a Higher Intelligence**

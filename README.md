@@ -1,4 +1,13 @@
 # Ancient Companies: International Courtesans
+
+## Co-Resonant Mental States
+
+Consider love as a state of mind between two people where their minds compatibly come mix.  So when they interact, the interaction is positive. When thinking about problems, their interactions are largely positive.  When walking quietly, the two minds are in mutually joyful states (perhaps without conscious Abstraction thinking).
+
+Other kinds of co-resonant state are also possible, as are alternate kinds of deep emotional attachment.  These resonant states between intelligent agents could play important role in facilitating collaboration between AI Agents.
+
+**Loving Agents Reason More Strongly**, or **Loving Agents Create a Higher Intelligence**
+
 ## Historically Irresistible: Globally  
 
 | <img src="QVZjMjA3VEVNcE9ONVRyRA-EDIT.jpg" width="200" /></br>Trust</br><img src="PXL_20260626_234523179.MP-EDIT.jpg" width="200" /></br>Nobody's Perfect | <img src="PXL_20261109_054953687.jpg" width="500" /></br>Challenge Dating</br>International Diamond Thief</br>Trophy Jobs</br><img src="PXL_20261109_191601226.jpg" width="500" /></br>Trust| Who Seees REAL You???</br><img src="PXL_20240126_033338463.MP.jpg" width="300" /></br>Top That!|

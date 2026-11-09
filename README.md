@@ -8,7 +8,7 @@ Other kinds of co-resonant state are also possible, as are alternate kinds of de
 
 **Loving Agents Reason More Strongly**, or **Loving Agents Create a Higher Intelligence**
 
-Love, for example, plays a key social role in Christian Culture.
+Love, for example, plays a key social role in Christian Culture. Love within communities is critical for social order, and community building.
 
 ## Historically Irresistible: Globally  
 

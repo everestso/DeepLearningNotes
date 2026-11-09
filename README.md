@@ -8,7 +8,7 @@ Other kinds of co-resonant state are also possible, as are alternate kinds of de
 
 **Loving Agents Reason More Strongly**, or **Loving Agents Create a Higher Intelligence**
 
-Love, for example, plays a key social role in Christian Culture. Love within communities is critical for social order, and community building.
+Love, for example, plays a key social role in Christian Culture. Love within communities is critical for social order, and community building. In the case of the TV series, The Bachelor, the idea is within a group of people, this resonant state could be induced given a specific period of time and enough effort.  So the conditions could be created in with this state could potentially be induced between two individuals.
 
 ## Historically Irresistible: Globally  
 

@@ -10,6 +10,8 @@ Other kinds of co-resonant state are also possible, as are alternate kinds of de
 
 Love, for example, plays a key social role in Christian Culture. Love within communities is critical for social order, and community building. In the case of the TV series, The Bachelor, the idea is within a group of people, this resonant state could be induced given a specific period of time and enough effort.  So the conditions could be created in with this state could potentially be induced between two individuals.
 
+This then leads to those that would have more skill in the process that leads to this resonant state, as in the series The Cleaning Lady, where hackers routinely establish strong intimate ties so as to use the connection to influence others into providing them funds.  
+
 ## Historically Irresistible: Globally  
 
 | <img src="QVZjMjA3VEVNcE9ONVRyRA-EDIT.jpg" width="200" /></br>Trust</br><img src="PXL_20260626_234523179.MP-EDIT.jpg" width="200" /></br>Nobody's Perfect | <img src="PXL_20261109_054953687.jpg" width="500" /></br>Challenge Dating</br>International Diamond Thief</br>Trophy Jobs</br><img src="PXL_20261109_191601226.jpg" width="500" /></br>Trust| Who Seees REAL You???</br><img src="PXL_20240126_033338463.MP.jpg" width="300" /></br>Top That!|

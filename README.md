@@ -1,28 +1,34 @@
-## Fresno State: Racial and Ethnic Demographics by Major
+## Fresno State: Racial and Ethnic Demographics by Major, 2023–2024
 
-The available public data show substantial differences among majors. This table compares **bachelor’s degree recipients**, rather than current enrollment.
+This table compares **bachelor’s degree recipients**, rather than current enrollment. The graduate totals correspond to the **2023–2024 academic year**, covering degrees awarded **July 1, 2023–June 30, 2024**.
 
-| Major | Graduates in reported cohort | Hispanic/Latino | White | Asian | Black/African American | International | Other categories* |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Business Administration | 708 | 53.1% | 19.5% | 14.8% | 1.7% | 4.7% | 6.2% |
-| Psychology | 561 | 66.3% | 14.1% | 11.2% | 3.4% | 0.7% | 4.3% |
-| Criminology | 353 | 80.2% | 7.4% | 6.5% | 0.8% | 0.6% | 4.5% |
-| Biology | 193 | 43.5% | 20.7% | 24.4% | 4.1% | 1.0% | 6.2% |
-| Nursing | 152 | 40.8% | 28.9% | 23.0% | 1.3% | 1.3% | 4.6% |
-| Computer Science | 69 | 29.0% | 29.0% | 24.6% | 2.9% | 10.1% | 4.3% |
-| Computer Engineering | 16 | 37.5% | 25.0% | 25.0% | 0.0% | 6.3% | 6.3% |
+| Major | Academic year | Graduates | Hispanic/Latino | White | Asian | Black/African American | International | Other categories* |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Business Administration | 2023–2024 | 708 | 53.1% | 19.5% | 14.8% | 1.7% | 4.7% | 6.2% |
+| Psychology | 2023–2024 | 561 | 66.3% | 14.1% | 11.2% | 3.4% | 0.7% | 4.3% |
+| Criminology | 2023–2024 | 353 | 80.2% | 7.4% | 6.5% | 0.8% | 0.6% | 4.5% |
+| Biology | 2023–2024 | 193 | 43.5% | 20.7% | 24.4% | 4.1% | 1.0% | 6.2% |
+| Nursing | 2023–2024 | 152 | 40.8% | 28.9% | 23.0% | 1.3% | 1.3% | 4.6% |
+| Computer Science | 2023–2024 | 69 | 29.0% | 29.0% | 24.6% | 2.9% | 10.1% | 4.3% |
+| Computer Engineering | 2023–2024 | 16 | 37.5% | 25.0% | 25.0% | 0.0% | 6.3% | 6.3% |
 
 Among these reported cohorts, **Hispanic/Latino representation is highest in criminology and psychology**. Asian representation is higher in the computing majors, biology, and nursing than in business, psychology, or criminology.
 
-**Notes and limitations:**
+**Notes:**
 
-- Percentages were calculated from College Factual’s published graduate counts, which cite federal education data. Rounding may cause totals to differ slightly from 100%.
+- Percentages were calculated from College Factual’s published graduate counts. Rounding may cause totals to differ slightly from 100%.
+- The year was established by matching program totals with sources identifying them as 2023–2024 completions. College Factual does not explicitly label the year of each demographic table, so the demographic-year attribution remains indirect.
 - *The source combines smaller categories under “Other Races.” International/nonresident students are reported separately; this category is not a race or ethnicity.*
-- The source pages describe these as the latest available graduating cohorts without consistently identifying the reporting year. This is a **preliminary comparison, not a verified same-year enrollment breakdown**.
+- These figures describe graduates, not all students enrolled in each major.
 - Small cohorts, particularly computer engineering, can fluctuate considerably.
-- Fresno State’s detailed program-review dashboards require a university Tableau account.
 
-**Sources:**
+**Year and reporting-period sources:**
+
+- [Fresno State program completions, 2023–2024 — College Evaluator](https://www.collegeevaluator.com/institute/california-state-university-fresno/majors/)
+- [Fresno State 2024 degree totals — Data USA](https://datausa.io/profile/university/california-state-university-fresno/)
+- [IPEDS 2024 Completions reporting instructions — July 2023 through June 2024](https://nces.ed.gov/ipeds/use-the-data/download-survey-material/2024/completions/package_10_80.pdf)
+
+**Demographic sources:**
 
 - [Business Administration](https://www.collegefactual.com/colleges/california-state-university-fresno/academic-life/academic-majors/business-management-marketing-sales/business-administration-and-management/)
 - [Psychology](https://www.collegefactual.com/colleges/california-state-university-fresno/academic-life/academic-majors/psychology/general-psychology/)
@@ -31,9 +37,6 @@ Among these reported cohorts, **Hispanic/Latino representation is highest in cri
 - [Nursing](https://www.collegefactual.com/colleges/california-state-university-fresno/academic-life/academic-majors/health-care-professions/nursing/)
 - [Computer Science](https://www.collegefactual.com/colleges/california-state-university-fresno/academic-life/academic-majors/computer-information-sciences/computer-science/)
 - [Computer Engineering](https://www.collegefactual.com/colleges/california-state-university-fresno/academic-life/academic-majors/engineering/ce-computer-engineering/)
-- [Fresno State Program Review and Dashboard Access](https://academics.fresnostate.edu/curriculum/prog-review/index.html)
-
-
 ## Fresno Area and Fresno State: Racial and Ethnic Demographics
 
 Fresno State has a larger Hispanic/Latino share and a smaller White share than the surrounding populations.

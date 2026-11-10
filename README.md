@@ -1,5 +1,10 @@
 # Ancient Companies: International Courtesans
 
+
+## Rituals, Coventants, Bondings
+|  <img src="PXL_20261110_180450237.jpg" width="200" />| <img src="PXL_20241005_033230423.jpg" width="200" />| |
+|-|-|-|
+
 ## Co-Resonant Mental States
 
 Consider love as a state of mind between two people where their minds compatibly come mix.  So when they interact, the interaction is positive. When thinking about problems, their interactions are largely positive.  When walking quietly, the two minds are in mutually joyful states (perhaps without conscious Abstraction thinking). The state also creates a strong attachment between the minds, that helps maintain a kind of correlated reasoning.

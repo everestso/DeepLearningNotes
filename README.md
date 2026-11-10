@@ -1,3 +1,27 @@
+## Fresno Area and Fresno State: Racial and Ethnic Demographics
+
+Fresno State has a larger Hispanic/Latino share and a smaller White share than the surrounding populations.
+
+| Race/ethnicity | Fresno city | Fresno County | Central Valley* | Fresno State |
+|---|---:|---:|---:|---:|
+| **Hispanic/Latino, any race** | **53%** | **55%** | **53.2%** | **61.4%** |
+| White, non-Hispanic | 23% | 25% | 29.2% | 15.4% |
+| Asian, non-Hispanic | 14% | 11% | 8.5% | 11.5% |
+| Black/African American, non-Hispanic | 7% | 4% | 4.4% | 2.9% |
+| **Data year** | 2024 ACS | 2024 ACS | 2020 Census | 2024–2025 enrollment |
+
+*Here, “Central Valley” means the **eight-county San Joaquin Valley**: Fresno, Kern, Kings, Madera, Merced, San Joaquin, Stanislaus, and Tulare counties. It excludes the Sacramento Valley.*
+
+**Notes:** These are selected categories, so columns do not total 100%. The comparison uses different years and compares residents of all ages with university students. It describes population composition rather than enrollment access or participation rates.
+
+**Sources:**
+
+- [Fresno city — Census Reporter, 2024 ACS](https://censusreporter.org/profiles/16000US0627000-fresno-ca/)
+- [Fresno County — Census Reporter, 2024 ACS](https://censusreporter.org/profiles/05000US06019-fresno-county-ca/)
+- [California Department of Finance — 2020 Census county profiles](https://dof.ca.gov/media/docs/forecasting/Demographics/2020-census-data/2020Census_PL942020_Profile_CalifSTCO.pdf) — Valley percentages calculated by combining the eight counties.
+- [Fresno State — 2024–2025 enrollment demographics](https://www.collegetuitioncompare.com/edu/110556/california-state-university-fresno/enrollment/)
+
+
 # Ancient Companies: International Courtesans
 
 ## Ancient Rituals, Coventants, and Bondings

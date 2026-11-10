@@ -1,3 +1,36 @@
+## Residential Segregation in Fresno: ZIP-Code and Neighborhood Data
+
+Race and ethnicity data by Fresno ZIP-code area show substantial differences in residential composition. These **2020–2024 American Community Survey estimates** illustrate the contrasts:
+
+| ZIP-code area | General location | Hispanic/Latino | White, non-Hispanic | Black, non-Hispanic | Asian, non-Hispanic |
+|---|---|---:|---:|---:|---:|
+| **93702** | Southeast Fresno | 75.8% | 6.2% | 4.0% | 11.2% |
+| **93706** | Southwest Fresno and surrounding areas | 65.7% | 11.2% | 11.6% | 7.5% |
+| **93711** | Northwest Fresno area | 30.6% | 52.1% | 4.2% | 7.5% |
+
+Hispanic/Latino includes people of any race. The other categories exclude Hispanic/Latino residents. Smaller racial categories are omitted, so rows do not total 100%.
+
+**Sources:** Census-derived estimates published by Neilsberg for [93702](https://www.neilsberg.com/insights/topic/93702-ca/), [93706](https://www.neilsberg.com/insights/topic/93706-ca/), and [93711](https://www.neilsberg.com/insights/topic/93711-ca/).
+
+### Measuring Segregation More Precisely
+
+**Census tracts are more useful than ZIP codes for measuring segregation within Fresno.** ZIP-code areas can combine different neighborhoods and extend beyond city limits. The Census reports these statistics for *ZIP Code Tabulation Areas* (ZCTAs), which approximate postal ZIP codes.
+
+See the [Census Bureau’s explanation of ZCTAs](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html).
+
+Fresno already has useful neighborhood-level analyses:
+
+| Source | What it provides |
+|---|---|
+| [Fresno’s adopted Housing Element, Appendix 1E](https://www.fresnocog.org/wp-content/uploads/2026/03/Appendix-1E-HE_MJHE_Adopted_12.12.24_updated-0115_2025-1.pdf) | **Figure 1E-3.3** maps racial segregation by census tract. The accompanying analysis identifies high concentrations of people of color in South Fresno and greater integration around the central Shaw Avenue corridor. |
+| [Central Valley Community Foundation’s DRIVE maps](https://ui-research.github.io/cvcf_dashboard/map.html) | Interactive neighborhood maps using **2020–2024 ACS data**, including racial composition and exposure to neighbors of different racial and ethnic groups. |
+
+A **dissimilarity index** measures how unevenly two groups are distributed across neighborhoods. Expressed on a 0–100 scale, **0 indicates an even distribution and 100 indicates complete separation**.
+
+A ZIP-code table illustrates geographic differences; a tract-based segregation index measures how extensively those differences occur across the city. Neither alone establishes the causes of segregation.
+
+See [Brown University’s explanation of segregation measures](https://s4.ad.brown.edu/projects/diversity/segregation2020/msa.aspx?metroid=23420).
+
 ## Fresno State: Racial and Ethnic Demographics by Major, 2023–2024
 
 This table compares **bachelor’s degree recipients**, rather than current enrollment. The graduate totals correspond to the **2023–2024 academic year**, covering degrees awarded **July 1, 2023–June 30, 2024**.

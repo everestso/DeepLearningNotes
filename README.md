@@ -1,9 +1,9 @@
 # Ancient Companies: International Courtesans
 
-
-## Rituals, Coventants, Bondings
+## Ancient Rituals, Coventants, and Bondings
 |  <img src="PXL_20261110_180450237.jpg" width="200" />| <img src="PXL_20241005_033230423.jpg" width="200" />| |
 |-|-|-|
+|  <img src="IMG_20221024_124346593-EDIT.jpg" width="200" />| <img src="QVZlRVFpMld1QTF5Ni1JNQ.jpeg" width="200" />| |
 
 ## Co-Resonant Mental States
 

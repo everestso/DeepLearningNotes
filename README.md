@@ -3,6 +3,9 @@
 |-|-|-|-|
 |  <img src="PXL_20261111_014005890.jpg" width="200" />| |  <img src="PXL_20241005_033230423.jpg" width="200" />|  |
 
+| | <img src="PXL_20261111_181042339~2.jpg" width="500" /> |
+|-|-|
+
 
 ## Residential Segregation in Fresno: ZIP-Code and Neighborhood Data
 

@@ -2,6 +2,8 @@
 
 ## Advanced Analyst Tools
 
+**Specialty Systems**
+
 [https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
 
 [https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb)

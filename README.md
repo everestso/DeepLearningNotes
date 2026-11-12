@@ -4,6 +4,9 @@
 
 **Specialty Systems**
 
+| <img src="DSC00065.JPG" width="400" /> | | |
+|-|-|-|
+
 [https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
 
 | <img src="PXL_20261112_182935263.jpg" width="200" />| <img src="PXL_20261012_215753844.jpg" width="200" />| <img src="5f22bccc-4c02-47a9-a07c-5201ba43049e-copied-media~2.jpg" width="200" />|<img src="PXL_20231110_211736049.MP.jpg" width="200" />| <img src="PXL_20261112_193154864.jpg" width="200" /> |

@@ -6,6 +6,9 @@
 
 [https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
 
+| <img src="PXL_20261112_182935263.jpg" width="200" />| <img src="PXL_20261012_215753844.jpg" width="200" />| |
+|-|-|-|
+
 [https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb)
 
 |  <img src="PXL_20261112_170849239.jpg" width="200" />| <img src="PXL_20261112_134747221.NIGHT-EDIT.jpg" width="400" /></br>Morning Star| <img src="PXL_20261112_180406535.MP.jpg" width="200" />|   <img src="PXL_20261110_180450237.jpg" width="200" />|

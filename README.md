@@ -9,7 +9,7 @@
 |  <img src="PXL_20261112_170849239.jpg" width="200" />| <img src="PXL_20261112_134747221.NIGHT-EDIT.jpg" width="400" /></br>Morning Star| <img src="PXL_20261112_180406535.MP.jpg" width="200" />|   |
 |-|-|-|-|
 
-|  <img src="IMG_20221024_124346593-EDIT.jpg" width="200" />| Seeing True Self</br><img src="PXL_20261109_054953687-EDIT.jpg" width="200" /></br>Poor Angry Move| <img src="QVZlRVFpMld1QTF5Ni1JNQ.jpeg" width="200" />|  <img src="PXL_20261111_014005890.jpg" width="200" />|
+|  <img src="IMG_20221024_124346593-EDIT.jpg" width="200" />| Seeing True Self</br>ME2</br><img src="PXL_20261109_054953687-EDIT.jpg" width="200" /></br>Poor Angry Move| <img src="QVZlRVFpMld1QTF5Ni1JNQ.jpeg" width="200" />|  <img src="PXL_20261111_014005890.jpg" width="200" />|
 |-|-|-|-|
 |   | |  <img src="PXL_20241005_033230423.jpg" width="200" />| <img src="PXL_20261110_182734108.jpg" width="200" /> |
 

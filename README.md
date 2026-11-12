@@ -6,7 +6,7 @@
 
 [https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
 
-| <img src="PXL_20261112_182935263.jpg" width="200" />| <img src="PXL_20261012_215753844.jpg" width="200" />| |
+| <img src="PXL_20261112_182935263.jpg" width="200" />| <img src="PXL_20261012_215753844.jpg" width="200" />| <img src="5f22bccc-4c02-47a9-a07c-5201ba43049e-copied-media~2.jpg" width="200" />|
 |-|-|-|
 
 [https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb)

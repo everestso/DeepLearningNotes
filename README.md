@@ -1,5 +1,7 @@
 # Hello
 
+[https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
+
 [https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb)
 
 |  <img src="IMG_20221024_124346593-EDIT.jpg" width="200" />| <img src="PXL_20261109_054953687-EDIT.jpg" width="200" />| <img src="QVZlRVFpMld1QTF5Ni1JNQ.jpeg" width="200" />|  <img src="PXL_20261110_182734108.jpg" width="200" /> |

@@ -1,5 +1,8 @@
 # Hello
 
+|  <img src="PXL_20261112_170849239.jpg" width="200" />| <img src="PXL_20261112_134747221.NIGHT-EDIT.jpg" width="400" /></br>Morning Star| |   |
+|-|-|-|-|
+
 [https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/d2026_11_11_SpotifyPlaylistExport.ipynb)
 
 [https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb](https://github.com/everestso/DeepLearningNotes/blob/main/c267f26_MNIST_Autoencoder_Latent_Space.ipynb)

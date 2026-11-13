@@ -7,7 +7,7 @@
 
 Beneath its celebratory energy is a more questioning search for **home, belonging, and the American dream**. The song can be heard as asking whether the welcoming Main Street of popular imagination actually exists—or whether nostalgia has concealed a more complicated history. That tension connects with the album’s inspiration in Potter’s travels between **California and her native Vermont**.
 
-| [![Grace Potter — Main Street U.S.A. — Official Visualizer](https://img.youtube.com/vi/u1a2Eq7BsyI/hqdefault.jpg)](https://www.youtube.com/watch?v=u1a2Eq7BsyI) | <img src="4200c845-06c1-4c40-b6de-8372fbdb4f24-copied-media~2.jpg" width="300" /> | <img src="PXL_20231110_211736049.MP.jpg" width="400" /> |
+| [![Grace Potter — Main Street U.S.A. — Official Visualizer](https://img.youtube.com/vi/u1a2Eq7BsyI/hqdefault.jpg)](https://www.youtube.com/watch?v=u1a2Eq7BsyI) | <img src="4200c845-06c1-4c40-b6de-8372fbdb4f24-copied-media~2.jpg" width="300" /> | <img src="PXL_20231110_211736049.MP.jpg" width="400" /></br><img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="200" /> |
 |-|-|-|
 
 **[Watch “Main Street U.S.A.” — Official Visualizer on YouTube](https://www.youtube.com/watch?v=u1a2Eq7BsyI)**

@@ -1,3 +1,39 @@
+## Ford Mustang Shelby GT500: A Brief History
+
+The **Shelby GT500** is a high-performance version of the **Ford Mustang**, originating in the partnership between Ford and racing driver and car builder **Carroll Shelby**. It became one of the best-known American muscle cars, combining distinctive styling with powerful V8 engines.
+
+### Origins: 1965–1967
+
+Shelby began modifying Mustangs with the **GT350 in 1965**, emphasizing racing performance and handling. In **1967**, he introduced the larger-engined **GT500**, powered by a **428-cubic-inch (7.0-liter) V8**, officially rated at **355 horsepower**. Its fiberglass body components, hood scoops, auxiliary lights, and cobra emblems distinguished it from ordinary Mustangs.
+
+The early Shelby Mustang program also had a **California connection**: Shelby American developed and modified these cars in the Los Angeles area, including its facility near Los Angeles International Airport.
+
+### The Original Muscle-Car Era: 1968–1970
+
+In **1968**, Shelby introduced the **GT500KR**, with “KR” standing for **King of the Road**. It used Ford’s **428 Cobra Jet V8**, becoming one of the defining Shelby models of the period.
+
+Ford assumed greater control over the Shelby Mustang program during its later years. The original run ended with the **1970 model year**, including unsold 1969 cars updated and sold as 1970 models.
+
+### Revival: 2007–2014
+
+Ford revived the GT500 for the **2007 model year**, renewing its collaboration with Carroll Shelby. Developed by Ford’s **Special Vehicle Team (SVT)**, it featured a **supercharged 5.4-liter V8 producing 500 horsepower** and styling inspired by the original cars.
+
+Performance increased over subsequent years. The **2013–2014 GT500** used a **supercharged 5.8-liter V8 rated at 662 horsepower**, bringing the model into the performance range of contemporary supercars.
+
+### A New Generation: 2020–2022
+
+The GT500 returned again for **2020**, featuring a **760-horsepower, supercharged 5.2-liter V8** and a **seven-speed dual-clutch automatic transmission**. Advanced suspension, braking, and aerodynamic features expanded its capabilities on road courses as well as in straight-line acceleration.
+
+### Historical Significance
+
+The GT500 connects **1960s American muscle-car culture**, Carroll Shelby’s racing reputation, and successive generations of Ford performance engineering. Its evolution reflects the Mustang’s movement from relatively accessible sporting car to a platform capable of exceptional power and track performance.
+
+### Sources
+
+- [Shelby American: Company and Vehicle History](https://www.shelby.com/History)
+- [Ford: 50 Years of Mustang Milestones](https://media.ford.com/content/dam/fordmedia/North%20America/US/2013/12/05/Mustang_Milestones.pdf)
+- [Ford: 2013 Shelby GT500’s Certified 662-Horsepower Engine](https://www.prnewswire.com/news-releases/at-662-hp-2013-ford-shelby-gt500-certified-as-worlds-most-powerful-v8-segment-leading-fuel-efficiency-149197635.html)
+
 # Hello
 
 ## Fuji, Fuji Xerox, and AMADA: A Brief History

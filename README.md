@@ -1,6 +1,20 @@
 
 ### Eleanor’s Final Escape — *Gone in 60 Seconds* (2000)
 
+### “Main Street U.S.A.” — Grace Potter
+
+**“Main Street U.S.A.”** opens Grace Potter’s album ***Trespasser***, released on **August 21, 2026**. An upbeat roots-rock song, it evokes road trips, jukeboxes, dancing, and the promise of small-town American life.
+
+Beneath its celebratory energy is a more questioning search for **home, belonging, and the American dream**. The song can be heard as asking whether the welcoming Main Street of popular imagination actually exists—or whether nostalgia has concealed a more complicated history. That tension connects with the album’s inspiration in Potter’s travels between **California and her native Vermont**.
+
+[![Grace Potter — Main Street U.S.A. — Official Visualizer](https://img.youtube.com/vi/u1a2Eq7BsyI/hqdefault.jpg)](https://www.youtube.com/watch?v=u1a2Eq7BsyI)
+
+**[Watch “Main Street U.S.A.” — Official Visualizer on YouTube](https://www.youtube.com/watch?v=u1a2Eq7BsyI)**
+
+*Click the preview image to play the video.*
+
+Sources: [Album release and background](https://shorefire.com/releases/entry/grace-potter-releasestrespasser-via-thirty-tigers) · [Lightning 100’s song overview](https://lightning100.com/uncategorized/dj-picks-of-the-week-9-21-9-25/)
+
 [Watch the bridge jump on YouTube — *Gone in 60 Seconds: Jump Scene (HD)*](https://www.youtube.com/watch?v=uH51wYU9Tr4)
 
 In the final stage of the chase, **Nicolas Cage’s Memphis Raines** drives **Eleanor**, the customized Mustang portrayed as a **1967 Shelby GT500**, through a shipyard before reaching the **Vincent Thomas Bridge** in Los Angeles Harbor.

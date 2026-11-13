@@ -1,5 +1,41 @@
 # Hello
 
+## Fuji, Fuji Xerox, and AMADA: A Brief History
+
+### Fuji / Fujifilm — Japan
+
+**Fujifilm began in 1934 as Fuji Photo Film Co., Ltd.**, established to develop Japan’s domestic photographic-film industry. It became internationally known for photographic film, color printing, and cameras, competing with companies such as Kodak. As digital photography reduced demand for film, Fujifilm expanded its expertise in imaging, chemistry, and materials into healthcare, electronic materials, and business printing. In **2006**, it reorganized under **FUJIFILM Holdings Corporation**.
+
+### Fuji Xerox — Japan and the Asia-Pacific Region
+
+**Fuji Xerox was established in 1962** as a **50–50 joint venture between Fuji Photo Film and Britain’s Rank Xerox**. Its first product, the **Fuji Xerox 914 plain-paper copier**, helped transform office document reproduction in Japan. The business expanded into printers, multifunction office machines, and document-management services throughout the Asia-Pacific region.
+
+Fujifilm increased its ownership to **75% in 2001** and acquired Xerox’s remaining **25% in 2019**. In **April 2021**, Fuji Xerox became **FUJIFILM Business Innovation**, following the expiration of its technology agreement with Xerox.
+
+### AMADA — Japan
+
+**Isamu Amada founded AMADA in Tokyo in 1946**, beginning with a small machine-repair workshop and a lathe recovered from a burned-out wartime factory. The business was incorporated in **1948** and developed its first vertical band saw in **1955**.
+
+AMADA subsequently expanded into **press brakes for bending sheet metal, turret punch presses, laser-cutting machines, and factory automation**. Headquartered in **Isehara, Kanagawa Prefecture**, it grew into an international manufacturer of metalworking machinery.
+
+### U.S. AMADA / AMADA America — United States
+
+AMADA established **US AMADA LTD. in Seattle in 1971** as a technology-development subsidiary. Its early work helped develop the company’s numerically controlled turret punch presses, connecting Japanese manufacturing with American engineering.
+
+**AMADA America traces its origins to that 1971 Seattle operation** and has operated in **California since 1973**, with its headquarters in **Buena Park**. Its American activities expanded into machinery sales, service, training, engineering, and manufacturing, including production facilities in **Brea, California**, and **High Point, North Carolina**.
+
+### Historical Connection
+
+These companies illustrate two paths in Japan’s industrial growth: **Fujifilm expanded from photographic materials into imaging and information technologies**, while **AMADA grew from postwar machine repair into precision manufacturing and automation**. Their international expansion created lasting business and engineering connections between Japan and the United States, including California.
+
+### Sources
+
+- [Fujifilm: Corporate History](https://holdings.fujifilm.com/en/about/history)
+- [Fuji Xerox / FUJIFILM Business Innovation: Corporate History](https://www.fujifilm.com/fb/en/about/corporate-fb/history/corporate)
+- [AMADA: Company History](https://www.amada.co.jp/en/ir/individual_investor/history/company_history/)
+- [AMADA America](https://www.amada.com/america/)
+- [AMADA: North American Manufacturing and Development](https://www.amada.co.jp/en/innovation/innovation_bases/north_america/)
+
 ## Advanced Analyst Tools
 
 **Specialty Systems**

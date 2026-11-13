@@ -1,5 +1,18 @@
-### Eleanor’s Final Chase — *Gone in 60 Seconds* (2000)
 
+### Eleanor’s Final Escape — *Gone in 60 Seconds* (2000)
+
+[Watch the bridge jump on YouTube — *Gone in 60 Seconds: Jump Scene (HD)*](https://www.youtube.com/watch?v=uH51wYU9Tr4)
+
+In the final stage of the chase, **Nicolas Cage’s Memphis Raines** drives **Eleanor**, the customized Mustang portrayed as a **1967 Shelby GT500**, through a shipyard before reaching the **Vincent Thomas Bridge** in Los Angeles Harbor.
+
+1. **Trapped:** An accident and emergency vehicles block the roadway ahead, while pursuing police close in behind him.
+2. **The opportunity:** Memphis spots a tow truck with its loading ramp lowered and recognizes a desperate escape route.
+3. **The jump:** He accelerates Eleanor onto the ramp, launching the Mustang over the accident scene and emergency vehicles.
+4. **The escape:** Eleanor lands beyond the obstruction and speeds away. The blocked roadway prevents the police cars from following directly.
+
+The famous stunt is a jump **over stopped traffic on the bridge**, rather than across a gap in the bridge.
+
+Memphis delivers the battered Eleanor **12 minutes late**, leading to a confrontation with crime boss **Raymond Calitri**. His ultimate freedom comes afterward: Memphis saves **Detective Castlebeck’s** life, and the detective allows him to leave.
 
 
 | <img src="Eleanor Mustang at the Harbor.png" width="300" /> | <img src="PXL_20261113_212634382.jpg" width="300" /> | |

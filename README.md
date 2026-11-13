@@ -1,3 +1,9 @@
+### Eleanor’s Final Chase — *Gone in 60 Seconds* (2000)
+
+In the film’s climactic chase, **Nicolas Cage’s Memphis Raines** steals **Eleanor**, a customized Mustang portrayed as a **1967 Shelby GT500**, and races to deliver the final car needed to save his brother. Pursued by police through the streets of **Long Beach**, a concrete river channel, and an industrial shipyard, Memphis pushes the gray-and-black Mustang through increasingly desperate escapes. The sequence culminates in a spectacular jump over stopped traffic on the **Vincent Thomas Bridge**, using a tow truck’s tilted bed as a ramp.
+
+[Watch Eleanor’s chase on YouTube — “Gone in 60 Seconds: Stealing Eleanor” [4K]](https://www.youtube.com/watch?v=N8b2_YByEBU)
+
 ## “Eleanor” — The Mustang from *Gone in 60 Seconds*
 
 **Eleanor**—the correct spelling—is the nickname given to the featured Ford Mustang in both the **1974 original** and the **2000 remake** of *Gone in 60 Seconds*. The two films use different generations of Mustang.

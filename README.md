@@ -1,3 +1,35 @@
+## “Eleanor” — The Mustang from *Gone in 60 Seconds*
+
+**Eleanor**—the correct spelling—is the nickname given to the featured Ford Mustang in both the **1974 original** and the **2000 remake** of *Gone in 60 Seconds*. The two films use different generations of Mustang.
+
+### The Original Eleanor: 1974 Film
+
+In filmmaker **H. B. “Toby” Halicki’s original**, Eleanor was a **yellow-and-black 1971 Ford Mustang SportsRoof**, modified to resemble a **1973 Mustang**. It became famous for the film’s extended chase through **Long Beach and surrounding Southern California communities**, sustaining considerable damage along the way.
+
+### The Shelby-Style Eleanor: 2000 Film
+
+In the remake starring **Nicolas Cage as car thief Memphis Raines**, Eleanor is portrayed as a **customized 1967 Shelby GT500 Mustang fastback**. Its recognizable features include:
+
+- **Pepper Gray Metallic paint with black racing stripes**
+- A sculpted hood, enlarged front air opening, and auxiliary lights
+- Flared bodywork, side-exhaust styling, and Halibrand-style wheels
+
+Illustrator **Steve Stanford** conceived the design, **Chip Foose** helped develop the bodywork, and **Cinema Vehicle Services in North Hollywood** built the movie cars. These were modified Mustang fastbacks portraying a Shelby GT500, rather than original factory-built GT500s.
+
+Within the story, Eleanor is Memphis’s elusive dream car—a car he loves but associates with failed theft attempts and bad luck.
+
+### Where Did the Name Come From?
+
+**The name originated in the 1974 film**, where the thieves assign ordinary women’s names to their target vehicles so they can discuss them without openly identifying the cars. “Eleanor” was the Mustang’s code name.
+
+The **2000 remake retained both the naming system and the Eleanor name**, connecting its redesigned Mustang to the original film. Eleanor therefore began as a fictional code name and became the popular name for an instantly recognizable movie-car design; it was **not an original Ford model designation**.
+
+### Sources
+
+- [Original Film: Official *Gone in 60 Seconds* Website](https://gonein60seconds.com/films/gone-in-60-seconds-1974/)
+- [MotorTrend: 50 Years of Movie Mustangs](https://www.motortrend.com/features/1409-50-years-of-movie-mustangs)
+- [Mecum: Screen-Used 1967 Ford Mustang “Eleanor”](https://www.mecum.com/lots/397289/1967-ford-mustang-eleanor/)
+
 ## Ford Mustang Shelby GT500: A Brief History
 
 The **Shelby GT500** is a high-performance version of the **Ford Mustang**, originating in the partnership between Ford and racing driver and car builder **Carroll Shelby**. It became one of the best-known American muscle cars, combining distinctive styling with powerful V8 engines.

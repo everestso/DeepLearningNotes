@@ -10,6 +10,16 @@ Beneath its celebratory energy is a more questioning search for **home, belongin
 | [![Grace Potter — Main Street U.S.A. — Official Visualizer](https://img.youtube.com/vi/u1a2Eq7BsyI/hqdefault.jpg)](https://www.youtube.com/watch?v=u1a2Eq7BsyI) </br> <img src="PXL_20261113_235710489.jpg" width="200" />| <img src="4200c845-06c1-4c40-b6de-8372fbdb4f24-copied-media~2.jpg" width="300" /> | <img src="PXL_20231110_211736049.MP.jpg" width="400" /></br><img src="72537c7f-32e3-40f4-947f-c0c071d63366-copied-media~2.jpg" width="200" /> |
 |-|-|-|
 
+### Linda Williams (1946–2025) — Film Scholar and Author of *Hard Core*
+
+**Linda Williams** was an influential American film scholar whose work helped establish **feminist film theory and pornography studies** as major areas of academic inquiry. She taught film studies at **UC Irvine from 1989 to 1997**, helping establish its Women’s Studies program, before joining **UC Berkeley’s departments of Film Studies and Rhetoric in 1997**.
+
+Her landmark book, ***Hard Core: Power, Pleasure, and the “Frenzy of the Visible”*** (**University of California Press, 1989; expanded edition, 1999**), examined pornography as a cinematic genre with its own history, conventions, and representations of sexuality. Moving beyond a simple debate over condemnation or approval, Williams investigated how these films construct relationships among **gender, power, spectatorship, and pleasure**.
+
+Her wider scholarship addressed **melodrama, race, documentary, and bodily responses to cinema**. Other notable works include *Playing the Race Card* (2001), the edited collection *Porn Studies* (2004), *Screening Sex* (2008), and *On The Wire* (2014). Her lasting contribution was to demonstrate that popular and stigmatized genres deserve rigorous attention for what they reveal about culture and social values.
+
+Sources: [UC Irvine remembrance](https://www.humanities.uci.edu/news/memoriam-remembering-linda-williams-1946-2025) · [UC Berkeley biography](https://rhetoric.berkeley.edu/news/memory-linda-williams-december-18-1946-march-12-2025) · [*Hard Core*, UC Press](https://www.ucpress.edu/book/9780520219434/hard-core)
+
 **[Watch “Main Street U.S.A.” — Official Visualizer on YouTube](https://www.youtube.com/watch?v=u1a2Eq7BsyI)**
 
 *Click the preview image to play the video.*

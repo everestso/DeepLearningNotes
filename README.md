@@ -1,3 +1,14 @@
+## Smittcamp Family Honors College at Fresno State
+
+The **Smittcamp Family Honors College** is a selective undergraduate honors program at **California State University, Fresno**. Established in **1998** through a **$1 million gift from Earl and Muriel Smittcamp**, prominent Central Valley agribusiness leaders and university supporters, it admits approximately **50 incoming freshmen each year**.
+
+Students pursue their chosen majors while completing small honors courses that fulfill general education requirements. The program emphasizes **academic achievement, leadership, and community service**, with personalized advising, priority registration, and opportunities for research and study abroad. Students who complete its requirements receive **University Honors** recognition on their diplomas.
+
+Each admitted student receives the **President’s Honors Scholarship** for up to **eight undergraduate semesters**, subject to program requirements. For **2026–27**, the scholarship provides **$6,000 per academic year**, plus a **$6,422 housing stipend** for students who choose to live in an eligible on-campus residence hall.
+
+[Official Smittcamp Family Honors College website — Fresno State](https://academics.fresnostate.edu/honors/index.html)
+
+[Scholarship details and benefits](https://academics.fresnostate.edu/honors/scholarship/index.html)
 
 ### Eleanor’s Final Escape — *Gone in 60 Seconds* (2000)
 
